@@ -1,0 +1,1007 @@
+[ . ]
+Tech Talks
+
+DigitalOcean Holiday Livestream: Deploying to 2021 and Not Rolling Back!
+  December 17, 11:00 a.m. ET
+
+
+  Bring some snacks and join us, virtually! Let’s bid adieu to 2020 with demos of our favorite dev projects this year, get a sneak peek of the DigitalOcean product roadmap, and hang out over a game or two of Among Us.
+
+REGISTER http://mkto-ab430114.com/x0D0000Y0A20SsT0etroLNY
+Kick-Starting Your Cloud Native Journey With Kubernetes and DOKS
+December 16, 10:00 a.m. GMT
+
+
+  Best practices for choosing a managed Kubernetes provider, re-architecting your application to microservices, and reaching your customers faster with Kubernetes.
+
+REGISTER http://mkto-ab430114.com/z0YL0tS000rTsBY2Dof0N00
+You Can Be a Kubernetes Contributor Too!
+  December 15, 12:00 p.m. ET
+
+
+  Gain courage and confidence in making your first meaningful open source contribution to Kubernetes.
+
+REGISTER http://mkto-ab430114.com/gC0LrsS0Y002TN0tD000gYo
+Dealing With Latency in Real-Time Online Multiplayer Video Games
+  December 10, 11:00 a.m. ET
+
+
+  Discover the basics of how video games work, how latency affects games, and ways you can mitigate the effects of latency.
+
+REGISTER http://mkto-ab430114.com/rr0D0N0Y0ThSLsD2o00Y0t0
+We hope that you can join us! If you can’t join live, please sign up anyway, and we’ll email you a link to the recording after the event.
+
+
+
+
+
+
+Refer a friend | Trouble seeing this email? View it as a web page.
+
+Copyright DigitalOcean. All right reserved.
+Floor 10, 101 Avenue of the Americas, New York, NY 10013
+
+[ Image ]
+
+This email was sent to si@askariblue.com. You can update your email subscription preferences here: https://anchor.digitalocean.com/Email_Preferences.html?mkt_unsubscribe=1&mkt_tok=eyJpIjoiTlRRNE1EZ3pZelk0T1dSbSIsInQiOiIrMUZTUndjeUo3cTA1VzRDTkx1ekJMamFVY2JvbTdvN05DN0FvZ0tWOW4rMTlwV0lxTUxDQXhpTngwdjdPQWZBbCtaRWZCeE9MNmNYcnNkL2pIYXQxL0hKVXQzamNZa3p4aHl6QkNVTitDNi9WS28yRUtlVkFEUTJlTmE3clgxdyJ9.
+--- mail_boundary ---
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>Deploying to 2021 and Not Rolling Back!</title>
+<!--[if !mso]><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style type="text/css">#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }</style>
+<!--[if mso]>                    <xml>                      <o:OfficeDocumentSettings>                          <o:AllowPNG/>                          <o:PixelsPerInch>96</o:PixelsPerInch>                      </o:OfficeDocumentSettings>                    </xml>                        <style type="text/css">             table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }                    </style>                  <![endif]-->
+<!--[if !mso]><!-->
+<link href="https://s3.amazonaws.com/assets.knak.io/custom-fonts/ProximaNova/ProximaNova.css" rel="stylesheet" type="text/css">
+<style type="text/css">@import url(https://s3.amazonaws.com/assets.knak.io/custom-fonts/ProximaNova/ProximaNova.css);</style>
+<!--<![endif]-->
+<style type="text/css">@media only screen and (min-width:620px) {         .mj-column-per-100 { width:100% !important; max-width: 100%; }       }</style>
+<style type="text/css">@media only screen and (max-width:620px) {       table.mj-full-width-mobile { width: 100% !important; }       td.mj-full-width-mobile { width: auto !important; }     }</style>
+<style type="text/css">p { margin: 0 0;}ul { display: block; }ul li { list-style: disc; }body a {text-decoration: none; color: #0080FF;}.image-highlight{transition: 0.3s;}.image-highlight:hover {filter: brightness(1.2);}.button-highlight{transition: 0.3s;}.button-highlight:hover {filter: brightness(1.5);}@media only screen and (min-width: 620px) { .hide-on-mobile { display: block !important;} }@media only screen and (max-width: 620px) {         .hide-on-mobile { display: none !important;}         .hide-on-desktop { display: block !important; max-height: none !important;}         .hide-on-desktop td { display: table-cell !important; max-height: none !important;} }.hide-on-desktop, .hide-on-desktop td {mso-hide: all; display: none; max-height: 0px; overflow: hidden;}</style>
+</head>
+<body style="word-spacing:normal;background-color:#FFFFFF;">
+<div style="background-color:#FFFFFF;">
+<div class="module module-5f777947ce8ec">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;border-top:10px solid #F3F5F9;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="img-container" style="font-size:0px;padding:0px 0px 0px 0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:600px;">
+<div class="mktoImg" id="kimage-5fcfe6c70d2de" mktolockimgsize="true" mktolockimgstyle="false">
+<img alt="." height="auto" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/6tqCFM2uaY4K1EY2VW1Mks7zuUpjJ5gG1716BpdP.jpeg" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600">
+</div>
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="image-plain-text-05fcfe6c70d2da" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+[ . ]
+</div>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5e1b0ab0e">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px 0px 0px 0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:25px 25px 0px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d302" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:13px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:13px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 64px;"><span style="font-size: 46px;"><strong><span style="color: #000000;">Tech Talks</span></strong></span></p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4fb704b8922">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:25px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d333" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><strong><span style="color: #000000;">DigitalOcean Holiday Livestream: Deploying to 2021 and Not Rolling Back!</span></strong></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><em>December 17, 11:00 a.m. ET</em><br><em><br></em></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;">Bring some snacks and join us, virtually! Let’s bid adieu to 2020 with demos of our favorite dev projects this year, get a sneak peek of the DigitalOcean product roadmap, and hang out over a game or two of <em>Among Us</em>.</p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5f4ccb075">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" vertical-align="middle" class="button-container" style="font-size:0px;padding:10px 10px 10px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td align="left"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"http://mkto-ab430114.com/DDpr0030NTL00Y02Ss0o0tY" fillcolor="#0248FF" arcsize="8%" style="v-text-anchor:middle;width:169.5pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href=
+"http://mkto-ab430114.com/DDpr0030NTL00Y02Ss0o0tY" style="display: inline-block; width: 40%; background: #0248FF; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: normal; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px; mso-padding-alt: 0px; border-radius: 3px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="226"
+>REGISTER </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-05fcfe6c70da85" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+REGISTER [[https://www.digitalocean.com/community/tech_talks/digitalocean-holiday-livestream-deploying-to-2021-and-not-rolling-back?utm_medium=email&amp;utm_source=webinar&amp;utm_campaign=invite]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb704b8922">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:25px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d38d" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><strong><span style="color: #000000;">Kick-Starting Your Cloud Native Journey With Kubernetes and DOKS</span></strong><br><em>December 16, 10:00 a.m. GMT<br><br></em></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;">Best practices for choosing a managed Kubernetes provider, re-architecting your application to microservices, and reaching your customers faster with Kubernetes.</p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5f4ccb075">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" vertical-align="middle" class="button-container" style="font-size:0px;padding:10px 10px 10px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td align="left"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"http://mkto-ab430114.com/LYr0NT0020qY0D4Lo0S0t0s" fillcolor="#0248FF" arcsize="8%" style="v-text-anchor:middle;width:169.5pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href=
+"http://mkto-ab430114.com/LYr0NT0020qY0D4Lo0S0t0s" style="display: inline-block; width: 40%; background: #0248FF; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: normal; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px; mso-padding-alt: 0px; border-radius: 3px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="226"
+>REGISTER </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-15fcfe6c70dabd" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+REGISTER [[https://www.digitalocean.com/community/tech_talks/kick-starting-your-cloud-native-journey-with-kubernetes-and-doks?utm_medium=email&amp;utm_source=webinar&amp;utm_campaign=invite]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb704b8922">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:25px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d3dd" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><strong><span style="color: #000000;">You Can Be a Kubernetes Contributor Too!</span></strong></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><em>December 15, 12:00 p.m. ET</em><br><em><br></em></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;">Gain courage and confidence in making your first meaningful open source contribution to Kubernetes.</p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5f4ccb075">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" vertical-align="middle" class="button-container" style="font-size:0px;padding:10px 10px 10px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td align="left"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"http://mkto-ab430114.com/kD05S0s00Yo00TtYL20rr0N" fillcolor="#0248FF" arcsize="8%" style="v-text-anchor:middle;width:169.5pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href=
+"http://mkto-ab430114.com/kD05S0s00Yo00TtYL20rr0N" style="display: inline-block; width: 40%; background: #0248FF; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: normal; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px; mso-padding-alt: 0px; border-radius: 3px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="226"
+>REGISTER </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-25fcfe6c70dae7" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+REGISTER [[https://www.digitalocean.com/community/tech_talks/you-can-be-a-kubernetes-contributor-too?utm_medium=email&amp;utm_source=webinar&amp;utm_campaign=invite]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb704b8922">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:25px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d42f" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><strong><span style="color: #000000;">Dealing With Latency in Real-Time Online Multiplayer Video Games</span></strong></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><em>December 10, 11:00 a.m. ET</em><br><br></p> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;">Discover the basics of how video games work, how latency affects games, and ways you can mitigate the effects of latency.</p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5f4ccb075">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" vertical-align="middle" class="button-container" style="font-size:0px;padding:10px 10px 10px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td align="left"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"http://mkto-ab430114.com/DDsr0060NTL00Y02Ss0o0tY" fillcolor="#0248FF" arcsize="8%" style="v-text-anchor:middle;width:169.5pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href=
+"http://mkto-ab430114.com/DDsr0060NTL00Y02Ss0o0tY" style="display: inline-block; width: 40%; background: #0248FF; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: normal; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px; mso-padding-alt: 0px; border-radius: 3px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="226"
+>REGISTER </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-35fcfe6c70db10" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+REGISTER [[https://www.digitalocean.com/community/tutorials/dealing-with-latency-in-realtime-online-multplayer-video-games?utm_medium=email&amp;utm_source=webinar&amp;utm_campaign=invite]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4d5bb0069d1">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;border-top:3px none #0248FF;font-size:0px;padding:15px 25px 0px 25px;text-align:center;vertical-align:top;" class="block-grid">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:#F1F9FD;line-height:0;font-size:0;direction:ltr;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:550px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:#F1F6FA;border:none;border-radius:0px;vertical-align:top;padding:0px 0px 0px 0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:25px 25px 25px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d470" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><span style="font-size: 14px;"><em>We hope that you can join us! If you can’t join live, please sign up anyway, and we’ll email you a link to the recording after the event.</em></span></p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f75e6d4b431b">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:25px 0px 10px 0px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #DFDEDE; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #DFDEDE;font-size:1px;margin:0px auto;width:600px;text-align:center;" role="presentation" width="600px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="social-container" style="font-size:0px;padding:10px 25px 0px 25px;word-break:break-word;">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-5fcfe6c70d4b8">
+<a href=
+"http://mkto-ab430114.com/x0D0000Y0t20SsT07troLNY" target="_blank" style="text-decoration: none; color: #0080FF;"
+><img alt="Twitter" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/QsMwEP7mUmOXAAkqJzOoOyD1ofAiwAYar3ETBABO.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-5fcfe6c70d4c3">
+<a href=
+"http://mkto-ab430114.com/WD028sTrS0u0Nto00Y0LY00" target="_blank" style="text-decoration: none; color: #0080FF;"
+><img alt="Facebook" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/3nclaeOYDedN51KQicUBC3816Vm6sbv1Iu5Rinug.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#0080FB;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-5fcfe6c70d4cd">
+<a href=
+"http://mkto-ab430114.com/y2YDLYos0t0SNTv0r900000" target="_blank" style="text-decoration: none; color: #0080FF;"
+><img alt="YouTube" height="19" src="https://s3.amazonaws.com/assets.knak.io/img/icons/builder-social/youtube.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-5fcfe6c70d4d5">
+<a href=
+"http://mkto-ab430114.com/G2T0NY00LarwD0tS0000osY" target="_blank" style="text-decoration: none; color: #0080FF;"
+><img alt="Instagram" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/HTSj6QdBi8KLRBENU6Jn31VOD4f0YVEGOOnDy2vj.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#0080FB;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-5fcfe6c70d4de">
+<a href=
+"http://mkto-ab430114.com/Y0trY0bso00YL000STD0xN2" target="_blank" style="text-decoration: none; color: #0080FF;"
+><img alt="Linkedin" height="19" src="https://s3.amazonaws.com/assets.knak.io/img/icons/builder-social/linkedin.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-5fcfe6c70d501" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;"> 
+<p style="margin: 0 0; mso-line-height-alt: 20px;"><a href=
+"http://mkto-ab430114.com/jYcT020SD00rL0osNty0Y00" target="_blank" rel="noopener" style="text-decoration: none; color: #0080FF;"
+>Refer a friend</a> | Trouble seeing this email? <a href=
+"http://mkto-ab430114.com/b0000tTSYDz0No2d000YLrs" target="_blank" rel="noopener" style="text-decoration: none; color: #0080FF;"
+>View it as a web page.</a><br><br>Copyright DigitalOcean. All right reserved.<br>Floor 10, 101 Avenue of the Americas, New York, NY 10013</p> 
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;">
+<tbody>
+<tr>
+<td style="border:none;border-bottom:10px solid #F3F5F9;font-size:0px;padding:0px 0px 25px 0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border:none;border-radius:0px;vertical-align:top;padding:0 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="img-container" style="font-size:0px;padding:10px 0px 0px 0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:36px;">
+<div class="mktoImg" id="kimage-5fcfe6c70d57f" mktolockimgsize="true" mktolockimgstyle="false">
+<img height="auto" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/RecQIPMBEzddRlbIakDkxczblhSoimcsLFSs479o.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="36">
+</div>
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="image-plain-text-05fcfe6c70d57d" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+[ Image ]
+</div>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<img src="http://mkto-ab430114.com/trk?t=1&mid=MTEzLURUTi0yNjY6MDoxNjE0OjQ2MjE6MjM0NDg6MjU3Njo5OjYzMDo2NjY4NDM0OnNpQGFza2FyaWJsdWUuY29t" width="1" height="1" style="display:none !important;" alt="" />
+
+<p style="text-align:center"><font face="'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri, Helvetica, sans-serif" size="1">
+This email was sent to si@askariblue.com. You can update your <a href=
+"http://mkto-ab430114.com/u/dt0So2EsYY0NL00Tri000D0"
+>email subscription preferences</a> at any time. 
+</font> </p>
+</body>
+</html>

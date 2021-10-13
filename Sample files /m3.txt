@@ -1,0 +1,2191 @@
+Eventbrite
+
+
+
+
+
+
+
+    
+    
+**** Eventbrite ****
+--------------------
+
+
+
+    
+
+
+
+    
+*** Hey Matthew!
+------------------------------------------------------------------------
+
+    
+UON Business Support Team  just announced a new event and we wanted to make sure you were the first to know!
+
+
+        
+Sales Skills
+
+        
+
+
+    
+** Sales Skills
+------------------------------------------------------------------------
+
+    
+Wednesday, 11 November 2020 at 10:00
+
+
+    
+Get Tickets: https://www.eventbrite.co.uk/e/sales-skills-tickets-128255336163?utm_source=eventbrite&amp;utm_medium=email&amp;utm_content=follow_notification&amp;utm_campaign=following_published_event&amp;utm_term=Sales+Skills&amp;aff=ebemoffollowpublishemail
+
+
+    
+
+
+        
+Here are other upcoming events from this organiser
+
+        
+Writing your business plan: https://www.eventbrite.co.uk/e/writing-your-business-plan-tickets-125485381153?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Writing+your+business+plan&aff=ebemoffollowpublishemail
+Tue, Nov 10 at 10:00 AM
+Writing your business plan
+
+
+                
+Active travel - Resources & Support for companies: https://www.eventbrite.co.uk/e/active-travel-resources-support-for-companies-tickets-124678471665?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Active+travel+-+Resources+%26+Support+for+companies&aff=ebemoffollowpublishemail
+Tue, 10 Nov 2020 at 10:00
+Active travel - Resources & Support for companies
+
+
+                
+Business Support Online Networking: https://www.eventbrite.co.uk/e/business-support-online-networking-tickets-125473828599?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Business+Support+Online+Networking&aff=ebemoffollowpublishemail
+Tue, 10 Nov 2020 at 12:30
+Business Support Online Networking
+
+
+    
+
+
+ 
+
+
+
+
+
+
+Questions? Contact us anytime day or night.
+https://www.eventbrite.com/support/contact-us
+
+- The Eventbrite Team
+
+
+View our user agreement and privacy policy if you have further questions:
+http://www.eventbrite.com/tos
+http://www.eventbrite.com/tos#privacy
+
+
+
+Copyright 2020 Eventbrite. All rights reserved.
+Eventbrite is located at 155 5th St, San Francisco, CA 94103, USA.
+--- mail_boundary ---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+        <!-- Turn off iOS phone number autodetect -->
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="format-detection" content="address=no" />
+
+        <!--[if mso]>
+            <style>
+                * { font-family: sans-serif !important; }
+            </style>
+        <![endif]-->
+        <style type="text/css">
+    /*
+     * Styles for all the emails
+     */
+
+    /* Normalizing */
+    #outlook a {padding:0;}
+    * {
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+    }
+    html, body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+        font-weight:normal;
+        width:100% !important;
+        height:100% !important;
+        margin:0;
+        padding:0;
+    }
+    img{border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;height:auto;line-height:100%;display:inline-block;}
+    a img{border:none;display:block;}
+    h1 {color: #1E0A3C !important;}
+    h2, h3, h4, h5, h6 {color:#1E0A3C !important;}
+    h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#3F60E7 !important;}
+    h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {color:#3F60E7 !important;}
+    h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {color:#3F60E7 !important;}
+    table {border-collapse:collapse !important;mso-table-lspace:0pt;mso-table-rspace:0pt;}
+    table td {border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}
+    table {
+        border-spacing:0;
+        border:0;
+        padding:0;
+        table-layout:fixed;
+        margin:0;
+    }
+    .no_text_resize {
+        -moz-text-size-adjust:none;
+        -webkit-text-size-adjust:none;
+        -ms-text-size-adjust:none;
+        text-size-adjust:none;
+    }
+    a[href^="x-apple-data-detectors:"] {
+        color:inherit !important;
+        text-decoration:none !important;
+        font-size:inherit !important;
+        font-family:inherit !important;
+        font-weight:inherit !important;
+        line-height:inherit !important;
+    }
+
+    td[class="grid__col"] {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .grid__col {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    /* Footer */
+    .footer-content.bottom-section {
+        padding: 0px 32px;
+    }
+    .content .align-center,
+    .footer-content .align-center {
+        text-align: center;
+    }
+    .footer-content {
+        color: #B7B6C0 !important;
+    }
+    .footer-content a {
+        color: #f05537 !important;
+        text-decoration: none;
+    }
+
+    /* Social */
+    .social-logo-container {
+        display: inline-block;
+        height: auto;
+        margin: 0px;
+    }
+
+
+    .content {
+        width: 600px;
+    }
+
+    .user-generated-content img {
+        max-width: 100%;
+    }
+
+
+    /* Media Queries */
+    @media all and (max-width: 600px) {
+        .content {
+            /* slight space on each side */
+            width: 97% !important;
+        }
+
+        *[class="gmail-fix"] {
+            display: none !important;
+        }
+
+        td[class="grid__col"] {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            max-width: 90% !important;
+        }
+        .grid__col {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+            max-width: 90% !important;
+        }
+        .social-logo-container {
+            display: inline-block !important;
+        }
+        .btn {
+            font-size: 15px !important;
+            padding: 12px 28px 14px !important;
+            margin-bottom: 18px;
+        }
+        .hide {display:none;}
+    }
+</style>
+
+        <!--[if (mso)|(IE)]>
+            <xml:namespace ns="urn:schemas-microsoft-com:vml" prefix="v" />
+            <style>
+                v\: * { behavior:url(#default#VML); display:inline-block }
+                .container-table {
+                    width: 100%;
+                }
+            </style>
+        <!<![endif]-->
+        <!--[if (gte mso 9)|(IE)]>
+            <style>
+            .hide {
+                display: none;
+            }
+            </style>
+        <![endif]-->
+
+    </head>
+
+    <!-- Global container with background styles. Gmail converts BODY to DIV so we lose properties like BGCOLOR. -->
+
+    <body style="
+        padding:0px !important;
+        margin:0px !important;
+    ">
+<div style="color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;display:none!important;line-height:0px!important;"><img border="0" width="1" height="1" src="http://post.spmailtechnol.com/q/I7eNFHXkuJ-e0ZxKGprmLA~~/AAQxAQA~/RgRhhpyiPVcDc3BjQgoARiJppV_9Bzv9Uh1tYXR0aGV3LmhheW5lc0Bhc2thcmlibHVlLmNvbVgEAAAAAA~~"/></div>
+
+        <div class="hide" style="letter-spacing:596px;line-height:0;mso-hide:all"></div>
+        <!-- Outermost Wrapper Table -->
+        <table style="min-width:100%;" width="100%" bgcolor="#1E0A3C">
+            <tr>
+                <td>
+                    <table
+                        style="
+        margin-left:auto;
+        margin-right:auto;
+    
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    "
+                        cellpadding="0"
+                        cellspacing="0"
+                        border="0"
+                        class="container-table"
+                    >
+                        <tr>
+                            <!-- Centered 600px Email Table -->
+                            <td style="
+        margin-left:auto;
+        margin-right:auto;
+    " align="center" bgcolor="#1E0A3C">
+                                <table class="content" style="border: none;">
+                                    <tr>
+                                        <td align="center" bgcolor="#1E0A3C">
+                                            <table cellpadding="0" cellspacing="0" border="0" bgcolor="#1E0A3C">
+                                                <tbody>
+                                                    
+
+                                                    <!-- Body Section -->
+                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;background-color:#1E0A3C;"
+        width="600" height="20">
+        <table
+            style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="20">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:40px;font-size:40px;height:40px;"
+                    height="40" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="">
+            
+        <div style="
+        width: 140px;
+        height: 25px;
+        margin: 0 auto;
+        text-align: center;
+    ">
+            
+    
+    <img src='https://cdn.evbstatic.com/s3-build/perm_001/de0b06/django/images/emails_2018_rebrand/EB-logo@2x.png' title='' alt='Eventbrite' style='' border="0" width='140' height='25' class=""/>
+
+
+        </div>
+    
+        </td>
+    </tr>
+
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;background-color:#1E0A3C;"
+        width="600" height="20">
+        <table
+            style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="20">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:40px;font-size:40px;height:40px;"
+                    height="40" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+
+    
+    
+    
+<tr class="row_divider-top">
+    <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;background-color:#FFFFFF;
+    border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0;border-bottom-left-radius:0;
+    "
+        width="600" height="18">
+        <table
+            style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="18">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;"
+                    height="18" bgcolor="">&nbsp;</td>
+            </tr>
+            <tr bgcolor="#FFFFFF">
+                <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;"
+                    height="18"></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+
+<tr bgcolor="#FFFFFF" class="row_section-article-content">
+    <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+        <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " align="left">
+            <tr class="row_section" style="" bgcolor="#FFFFFF">
+                <td width="20" bgcolor="#FFFFFF" align="left"></td>
+                <td class="" style="text-align:left;background-color:#FFFFFF;"
+                    align="left">
+                    <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " class="" cellspacing="0"
+                        cellpadding="0" bgcolor="#FFFFFF" align="left">
+                        
+        
+        
+        
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+<h1 style="
+        padding: 0;
+        margin: 12px 0 0 0;
+    
+        font-size: 30px;
+        line-height: 42px;
+        font-weight: bold;
+        font-weight: 800;
+        letter-spacing: -0.2px;
+        color: #1E0A3C;
+    
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin-top: 4px;" class="">
+    
+            Hey Matthew!
+        
+</h1>
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;background-color:#FFFFFF;"
+        width="600" height="8">
+        <table
+            style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="8">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;"
+                    height="16" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#39364f;font-weight:normal;"
+    class="">
+    
+        
+            UON Business Support Team  just announced a new event and we wanted to make sure you were the first to know!
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+                    </table>
+                </td>
+                <td width="20" bgcolor="#FFFFFF"></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+        
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+            
+    
+    <img src='https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F116977401%2F242938892994%2F1%2Foriginal.20200518-125112?rect=0%2C0%2C800%2C400&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=f88ee511ac41da9fd247c6d90b851f93' title='Sales Skills' alt='Sales Skills' style='' border="0" width='100%' height='auto' class=""/>
+
+
+        
+        </td>
+    </tr>
+
+
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#FFFFFF;"
+        width="600" height="12">
+        <table
+            style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="12">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;"
+                    height="24" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+
+<tr bgcolor="#FFFFFF" class="row_section-article-content">
+    <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+        <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " align="left">
+            <tr class="row_section" style="" bgcolor="#FFFFFF">
+                <td width="20" bgcolor="#FFFFFF" align="left"></td>
+                <td class="" style="text-align:left;background-color:#FFFFFF;"
+                    align="left">
+                    <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " class="" cellspacing="0"
+                        cellpadding="0" bgcolor="#FFFFFF" align="left">
+                        
+        
+        
+
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;background-color:#FFFFFF;"
+        width="600" height="4">
+        <table
+            style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;height:4px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="4">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;"
+                    height="8" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="white" width="100%" height="">
+            
+        
+    
+<h2 style="
+        padding: 0;
+        margin: 12px 0 0 0;
+    
+        font-size: 23px;
+        line-height: 32px;
+        font-weight: normal;
+        font-weight: 500;
+        color: #1E0A3C;
+    
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0; font-weight: bold; letter-spacing: 0.25px;" class="">
+    
+            Sales Skills
+        
+</h2>
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#FFFFFF;"
+        width="600" height="12">
+        <table
+            style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="12">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;"
+                    height="24" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="white" width="100%" height="">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 17px;
+        line-height: 24px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#39364f;font-weight:600;letter-spacing: 0.25px;"
+    class="">
+    
+        
+            Wednesday, 11 November 2020 at 10:00
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="white" width="100%" height="">
+            
+        
+    <!--[if (mso)|(ie)]>
+    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.eventbrite.co.uk/e/sales-skills-tickets-128255336163?utm_source=eventbrite&amp;utm_medium=email&amp;utm_content=follow_notification&amp;utm_campaign=following_published_event&amp;utm_term=Sales+Skills&amp;aff=ebemoffollowpublishemail" style="height:40px;v-text-anchor:middle;width:225px;" arcsize="10%" strokeweight="1px" strokecolor="#f05537" fillcolor="#f05537">
+        <w:anchorlock/>
+        <center style="color:#FFFFFF;font-family:sans-serif;font-size:16px;font-weight:normal;">
+            Get Tickets
+        </center>
+    </v:roundrect>
+    <![endif]-->
+    <!--[if !((mso)|(ie))]><!-- -->
+    <div style="text-align:center;
+        font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif;
+     
+        padding: 0;
+    ">
+        <a
+            href="https://www.eventbrite.co.uk/e/sales-skills-tickets-128255336163?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Sales+Skills&aff=ebemoffollowpublishemail"
+            target="_blank"
+            style="
+                background-color:#f05537;
+                color:#FFFFFF;
+                border-color:#f05537;
+                
+        display: inline-block;
+        line-height: 22px;
+        font-weight: normal;
+        font-weight: 500;
+        font-size: 15px;
+        text-align: center;
+        text-decoration: none;
+        padding: 8px 28px 12px;
+        border-radius: 4px;
+        border-style: solid;
+        border-width: 2px;
+    
+                
+            "
+            class="btn "
+        >
+            Get Tickets
+        </a>
+    </div>
+    <!--<![endif]-->
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+                    </table>
+                </td>
+                <td width="20" bgcolor="#FFFFFF"></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:2px;font-size:2px;background-color:#FFFFFF;"
+        width="600" height="2">
+        <table
+            style="mso-line-height-rule:exactly;line-height:2px;font-size:2px;height:2px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="2">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;height:4px;"
+                    height="4" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+        
+    
+
+<tr bgcolor="#FFFFFF" class="row_section-article-content">
+    <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+        <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " align="left">
+            <tr class="row_section" style="" bgcolor="#FFFFFF">
+                <td width="20" bgcolor="#FFFFFF" align="left"></td>
+                <td class="" style="text-align:left;background-color:#FFFFFF;"
+                    align="left">
+                    <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " class="" cellspacing="0"
+                        cellpadding="0" bgcolor="#FFFFFF" align="left">
+                        
+        
+            
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+        
+    
+<tr class="row_divider-line">
+    <td style="mso-line-height-rule:exactly;line-height:1px;font-size:1px;background-color:#FFFFFF;"
+        width="600" height="1">
+        <table
+            style="mso-line-height-rule:exactly;line-height:1px;font-size:1px;height:1px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="1">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:1px;font-size:1px;height:1px;"
+                    height="1" bgcolor="#E7E6EA">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+        
+        
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="white" width="100%" height="">
+            
+            
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#39364f;font-weight:600;"
+    class="">
+    
+        
+                Here are other upcoming events from this organiser
+            
+    
+</span>
+
+
+        
+        </td>
+    </tr>
+
+
+        
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+                
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    
+        </td>
+    </tr>
+
+    
+    <tr style="" bgcolor="white">
+        <td class="recommended_event_row" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        <a href="https://www.eventbrite.co.uk/e/writing-your-business-plan-tickets-125485381153?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Writing+your+business+plan&aff=ebemoffollowpublishemail" style="text-decoration: none;">
+            <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    ">
+                <tr class="row_section">
+                    <td
+                        width="100"
+                        height="100"
+                    >
+                        
+    <div
+        valign="top"
+        style="vertical-align: top; background-image: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114773301%2F242938892994%2F1%2Foriginal.20200810-140400?rect=0%2C52%2C1600%2C800&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=90f8d316e0d0fb21122b677ebbe8cb35); background-repeat: no-repeat; background-size: cover; background-position: center; height: 100px; width: 100px;"
+    >
+      <!--[if gte mso 9]>
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="height: 100px; width: 100px;">
+        <v:fill type="frame" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114773301%2F242938892994%2F1%2Foriginal.20200810-140400?rect=0%2C52%2C1600%2C800&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=90f8d316e0d0fb21122b677ebbe8cb35" />
+        <v:textbox inset="0,0,0,0">
+      <![endif]-->
+      <div>
+      </div>
+      <!--[if gte mso 9]>
+        </v:textbox>
+      </v:rect>
+      <![endif]-->
+    </div>
+
+                    </td>
+                    <td width="16" style="width: 16px;"></td>
+                    <td style="vertical-align: top;">
+                        <table>
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#f05537;font-weight:800;"
+    class="">
+    
+        
+                                    Tue, Nov 10 at 10:00 AM
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 19px;
+        line-height: 30px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#1E0A3C;font-weight:800;"
+    class="">
+    
+        
+                                    Writing your business plan
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#6F7287;font-weight:normal;"
+    class="">
+    
+        
+                                    
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </a>
+    
+        </td>
+    </tr>
+
+
+                
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    
+        </td>
+    </tr>
+
+    
+    <tr style="" bgcolor="white">
+        <td class="recommended_event_row" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        <a href="https://www.eventbrite.co.uk/e/active-travel-resources-support-for-companies-tickets-124678471665?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Active+travel+-+Resources+%26+Support+for+companies&aff=ebemoffollowpublishemail" style="text-decoration: none;">
+            <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    ">
+                <tr class="row_section">
+                    <td
+                        width="100"
+                        height="100"
+                    >
+                        
+    <div
+        valign="top"
+        style="vertical-align: top; background-image: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114141539%2F242938892994%2F1%2Foriginal.20200818-131402?rect=1%2C55%2C652%2C326&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=362ac99bd19d6ab830425c539fd15263); background-repeat: no-repeat; background-size: cover; background-position: center; height: 100px; width: 100px;"
+    >
+      <!--[if gte mso 9]>
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="height: 100px; width: 100px;">
+        <v:fill type="frame" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114141539%2F242938892994%2F1%2Foriginal.20200818-131402?rect=1%2C55%2C652%2C326&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=362ac99bd19d6ab830425c539fd15263" />
+        <v:textbox inset="0,0,0,0">
+      <![endif]-->
+      <div>
+      </div>
+      <!--[if gte mso 9]>
+        </v:textbox>
+      </v:rect>
+      <![endif]-->
+    </div>
+
+                    </td>
+                    <td width="16" style="width: 16px;"></td>
+                    <td style="vertical-align: top;">
+                        <table>
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#f05537;font-weight:800;"
+    class="">
+    
+        
+                                    Tue, 10 Nov 2020 at 10:00
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 19px;
+        line-height: 30px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#1E0A3C;font-weight:800;"
+    class="">
+    
+        
+                                    Active travel - Resources & Support for companies
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#6F7287;font-weight:normal;"
+    class="">
+    
+        
+                                    
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </a>
+    
+        </td>
+    </tr>
+
+
+                
+    
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;"
+        width="600" height="16">
+        <table
+            style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="16">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;"
+                    height="32" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    
+        </td>
+    </tr>
+
+    
+    <tr style="" bgcolor="white">
+        <td class="recommended_event_row" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="">
+            
+        <a href="https://www.eventbrite.co.uk/e/business-support-online-networking-tickets-125473828599?utm_source=eventbrite&utm_medium=email&utm_content=follow_notification&utm_campaign=following_published_event&utm_term=Business+Support+Online+Networking&aff=ebemoffollowpublishemail" style="text-decoration: none;">
+            <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    ">
+                <tr class="row_section">
+                    <td
+                        width="100"
+                        height="100"
+                    >
+                        
+    <div
+        valign="top"
+        style="vertical-align: top; background-image: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114766699%2F242938892994%2F1%2Foriginal.20200423-130233?rect=0%2C9%2C1198%2C599&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=11c4e2b6d27cfbb913cc0e93e95c318f); background-repeat: no-repeat; background-size: cover; background-position: center; height: 100px; width: 100px;"
+    >
+      <!--[if gte mso 9]>
+      <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="height: 100px; width: 100px;">
+        <v:fill type="frame" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F114766699%2F242938892994%2F1%2Foriginal.20200423-130233?rect=0%2C9%2C1198%2C599&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;s=11c4e2b6d27cfbb913cc0e93e95c318f" />
+        <v:textbox inset="0,0,0,0">
+      <![endif]-->
+      <div>
+      </div>
+      <!--[if gte mso 9]>
+        </v:textbox>
+      </v:rect>
+      <![endif]-->
+    </div>
+
+                    </td>
+                    <td width="16" style="width: 16px;"></td>
+                    <td style="vertical-align: top;">
+                        <table>
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#f05537;font-weight:800;"
+    class="">
+    
+        
+                                    Tue, 10 Nov 2020 at 12:30
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 19px;
+        line-height: 30px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#1E0A3C;font-weight:800;"
+    class="">
+    
+        
+                                    Business Support Online Networking
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                            
+    <tr style="" bgcolor="white">
+        <td class="" style="
+        padding: 0;
+     text-align:left;" align="left" bgcolor="white" width="100%" height="22px">
+            
+                                
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 15px;
+        line-height: 21px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#6F7287;font-weight:normal;"
+    class="">
+    
+        
+                                    
+                                
+    
+</span>
+
+
+                            
+        </td>
+    </tr>
+
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </a>
+    
+        </td>
+    </tr>
+
+
+        
+        </td>
+    </tr>
+
+    
+        </td>
+    </tr>
+
+
+        
+    
+                    </table>
+                </td>
+                <td width="20" bgcolor="#FFFFFF"></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    
+    
+<tr class="row_divider-bottom">
+    <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;background-color:#FFFFFF;
+    border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0px;border-bottom-left-radius:0px;
+    "
+        width="600" height="18">
+        <table
+            style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="18">
+            <tr bgcolor="#FFFFFF">
+                <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;"
+                    height="18"></td>
+            </tr>
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;"
+                    height="18" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+ 
+
+
+                                                    <!-- Footer Section-->
+                                                        
+
+
+
+
+
+
+
+<tr bgcolor="#1E0A3C" class="row_section-">
+    <td style="background-color:#1E0A3C;" bgcolor="#1E0A3C" class="grid__col">
+        <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    " align="center">
+            <tr class="row_section" style="" bgcolor="#1E0A3C">
+                <td width="30" bgcolor="#1E0A3C" align="center"></td>
+                <td class="" style="text-align:center;background-color:#1E0A3C;"
+                    align="center">
+                    <table style="
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+        width:100%;
+    #FFFFFF" class="" cellspacing="0"
+                        cellpadding="0" bgcolor="#1E0A3C" align="center">
+                        
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="">
+            
+        
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;background-color:#1E0A3C;"
+        width="600" height="20">
+        <table
+            style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="20">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:40px;font-size:40px;height:40px;"
+                    height="40" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="">
+            
+        
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="">
+            
+        <div style="
+        width: 140px;
+        height: 25px;
+        margin: 0 auto;
+        text-align: center;
+    ">
+            
+    
+    <img src='https://cdn.evbstatic.com/s3-build/perm_001/de0b06/django/images/emails_2018_rebrand/EB-logo@2x.png' title='' alt='Eventbrite' style='' border="0" width='140' height='25' class=""/>
+
+
+        </div>
+    
+        </td>
+    </tr>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#1E0A3C;"
+        width="600" height="12">
+        <table
+            style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="12">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;"
+                    height="24" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="">
+            
+        
+    
+<span class="social-logo-container" style="
+        padding:0;
+        display:inline-block;
+        height:auto;
+        margin:0;
+        width:40px;
+        text-align:center;
+    ">
+    <a href="https://www.twitter.com/EventbriteUK" target="_blank" aria-label="Eventbrite&#39;s Twitter">
+        <img src="https://cdn.evbstatic.com/s3-build/perm_001/e8f31d/django/images/emails_2018_rebrand/TW-icon@2x.png" class="footer-social-logo__image" style="
+        height:24px;
+        padding:0;
+        width:24px;
+    " height="24"
+            width="24" alt="twitter-light" title="twitter-light" border="0" />
+    </a>
+</span>
+
+        
+    
+<span class="social-logo-container" style="
+        padding:0;
+        display:inline-block;
+        height:auto;
+        margin:0;
+        width:40px;
+        text-align:center;
+    ">
+    <a href="https://www.facebook.com/EventbriteUK" target="_blank" aria-label="Eventbrite Facebook">
+        <img src="https://cdn.evbstatic.com/s3-build/perm_001/b9d350/django/images/emails_2018_rebrand/FB-icon@2x.png" class="footer-social-logo__image" style="
+        height:24px;
+        padding:0;
+        width:24px;
+    " height="24"
+            width="24" alt="facebook-light" title="facebook-light" border="0" />
+    </a>
+</span>
+
+        
+    
+<span class="social-logo-container" style="
+        padding:0;
+        display:inline-block;
+        height:auto;
+        margin:0;
+        width:40px;
+        text-align:center;
+    ">
+    <a href="https://www.instagram.com/eventbrite/" target="_blank" aria-label="Eventbrite&#39;s Instagram">
+        <img src="https://cdn.evbstatic.com/s3-build/perm_001/cbdca9/django/images/emails_2018_rebrand/IG-icon@2x.png" class="footer-social-logo__image" style="
+        height:24px;
+        padding:0;
+        width:24px;
+    " height="24"
+            width="24" alt="instagram-light" title="instagram-light" border="0" />
+    </a>
+</span>
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#1E0A3C;"
+        width="600" height="12">
+        <table
+            style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="12">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;"
+                    height="24" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="footer-content" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="24">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 12px;
+        line-height: 18px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#FFFFFF;font-weight:normal;"
+    class="">
+    
+        
+            
+            
+    <span style='' class=''>
+                This email was sent to 
+
+
+<a style="
+        text-decoration:none;color:#3F60E7;
+     color:#f05537; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight:normal; " href="mailto:matthew.haynes@askariblue.com"
+    class="">matthew.haynes@askariblue.com</a>
+            </span>
+
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="footer-content" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="24">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 12px;
+        line-height: 18px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#FFFFFF;font-weight:normal;"
+    class="">
+    
+        
+            You&#39;re receiving an email because you followed the organiser who published this event.
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="footer-content" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="24">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 12px;
+        line-height: 18px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#FFFFFF;font-weight:normal;"
+    class="">
+    
+        
+            
+            To unsubscribe, you can unfollow the organiser in your <a href="https://www.eventbrite.com/u/299935727404" style="
+        text-decoration:none;color:#3F60E7;
+     color: #f05537; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    ; font-weight:normal;" target="_blank">user profile</a>, go to your <a href="https://www.eventbrite.co.uk/account-settings/email-preferences/?ref=eemail&utm_source=eventbrite&utm_medium=email&utm_term=footer_email_preferences&utm_campaign=notify_organizer_follower_on_publish_email" style="
+        text-decoration:none;color:#3F60E7;
+     color: #f05537; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    ; font-weight:normal;" target="_blank">email preferences page</a> or just <a href="https://www.eventbrite.co.uk/unsubscribe?email=matthew.haynes%40askariblue.com&list_id=23&sig=AGNbPwEPBsL-x4liNsQnDoHIHjEV2GTuoQ" style="
+        text-decoration:none;color:#3F60E7;
+     color: #f05537; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    ; font-weight:normal;" target="_blank">click here</a>.
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="footer-content" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="24">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 12px;
+        line-height: 18px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#FFFFFF;font-weight:normal;"
+    class="">
+    
+        
+            
+
+
+<a style="
+        text-decoration:none;color:#3F60E7;
+     color:#f05537; 
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight:normal; " href="https://www.eventbrite.co.uk?utm_source=eventbrite&utm_medium=email&utm_campaign=&utm_term=email_footer_eb_link"
+    class="">Eventbrite</a>
+             | 10-11 Charterhouse Square | EC1M 6EE London
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    <tr style="" bgcolor="#1E0A3C">
+        <td class="footer-content" style="
+        padding: 0;
+     text-align:center;" align="center" bgcolor="#1E0A3C" width="100%" height="24">
+            
+        
+    
+    
+
+<span style="
+        font-weight: normal;
+        margin: 4px 0;
+      
+        font-size: 12px;
+        line-height: 18px;
+     
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     color:#FFFFFF;font-weight:normal;"
+    class="">
+    
+        
+            Copyright &copy; 2020 Eventbrite. All rights reserved.
+        
+    
+</span>
+
+
+    
+        </td>
+    </tr>
+
+
+    
+    
+
+    
+<tr class="row_divider-spacer">
+    <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;background-color:#1E0A3C;"
+        width="600" height="18">
+        <table
+            style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;
+        border-collapse:collapse;
+        border-spacing:0;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        border:0;
+        padding:0;
+    ;width:100%;"
+            cellspacing="0" cellpadding="0" height="18">
+            
+            <tr>
+                <td style="mso-line-height-rule:exactly;line-height:36px;font-size:36px;height:36px;"
+                    height="36" bgcolor="">&nbsp;</td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+        <img src="https://www.eventbrite.com/emails/action/?recipient=matthew.haynes%40askariblue.com&amp;type=open&amp;send_id=2020-11-06&amp;list_id=23" alt="" width="1" height="1" />
+
+                    </table>
+                </td>
+                <td width="30" bgcolor="#1E0A3C"></td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    
+<img border="0" width="1" height="1" alt="" src="http://post.spmailtechnol.com/q/N2hDKpIrISQhJaRGSolufA~~/AAQxAQA~/RgRhhpyiPlcDc3BjQgoARiJppV_9Bzv9Uh1tYXR0aGV3LmhheW5lc0Bhc2thcmlibHVlLmNvbVgEAAAAAA~~">
+</body>
+</html>

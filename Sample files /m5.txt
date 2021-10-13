@@ -1,0 +1,921 @@
+Tip #5
+Mail it to the masses
+All you have to do is design your content, create a mailing list and hit send — voila!
+Simple and straightforward
+Save your business from the tedious work of stamping and labeling mail by hand. Whether you’re sending out a postcard, invitation or flyer, Lucidpress makes it easy to create content and send it out for delivery — all from one place.
+Customizable and targeted
+Hone in on customers in specific geographic locations around your business, or target your audiences based on relevant demographics such as age, income, employment and more.
+Lead with a letterhead
+Make a lasting impression with a memorable, professionally-designed letterhead. Lockdown specific assets, like your logo or contact information, while empowering reps to replace specific textboxes or images — so your brand stays consistent and strong.
+Ready for seconds?
+Take advantage of a Pro account <http://email.lucidpress.co/NT00ZPZn00j9LDZ50qb0e3b>, free for 7 days, and gain access to unlimited pages, high quality downloads and more.
+You received this email because you are subscribed to emails from Lucidpress. Update your email preferences <[[http://www2.golucid.co/LP-SubscriptionManagement.html?utm_source=product-qualified&utm_medium=email&utm_campaign=onboarding&utm_content=tip5&utm_button=unsubscribe]]> to choose the types of emails you receive.
+You received this email because you are subscribed to emails from Lucidpress. Update your 
+email preferences <[[http://www2.golucid.co/LP-SubscriptionManagement.html]]> to choose the types of emails you receive.
+
+.
+--- mail_boundary ---
+<!doctype html>
+<html>
+<head> 
+<meta http-equiv="Content-Type" content="text/html charset=UTF-8"> 
+<meta name="viewport" content="width=device-width"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<!-- Marketo Variable Definitions -->                
+<!-- Subheader -->   
+<!-- Button -->   
+<!-- Logo -->   
+<!-- Header -->  
+<!-- Color Section -->         
+<!-- CTA -->   
+<!-- Line -->  
+<!-- Stackable -->                
+<!-- List -->      
+<!-- Single Img -->   
+<!-- Footer -->     
+<!--
+https://d2slcw3kip6qmk.cloudfront.net/marketing/press/e-mail/social-icons/facebook.png
+https://d2slcw3kip6qmk.cloudfront.net/marketing/press/e-mail/social-icons/twitter.png
+https://d2slcw3kip6qmk.cloudfront.net/marketing/press/e-mail/social-icons/youtube.png
+https://d2slcw3kip6qmk.cloudfront.net/marketing/press/e-mail/social-icons/linkedin.png
+-->         
+<!-- End Marketo Variable Definitions --> 
+<!--[if mso]>
+      <style>
+        * {
+          font-family: Barlow, Roboto, sans-serif !important;
+        }
+      </style>
+    <![endif]--> 
+<style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    table table table {
+      table-layout: auto;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    .a1:hover {
+      background-color: #d7faf5 !important;
+      color: #009985 !important;
+      box-shadow: 2px 2px 0 0 transparent !important;
+      border: 1px solid #00c2a8 !important;
+    }
+
+    .a1:active {
+      background-color: #d7faf5 !important;
+      color: #009985 !important;
+      box-shadow: 2px 2px 0 0 transparent !important;
+      border: 1px solid #00c2a8 !important;
+    }
+
+    .a3:hover {
+      color: #7bb531 !important;
+    }
+
+    *[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+    }
+
+    .x-gmail-data-detectors,
+    .x-gmail-data-detectors *,
+    .aBn {
+      border-bottom: 0 !important;
+      cursor: default !important;
+    }
+    .color-section-2-list-container table {
+      font-size: 17px;
+    }
+    .color-section-2-list-container table td {
+      padding: 5px;
+    }
+    .mobile-text-footer a {
+      color: #fff; 
+    }
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      .email-container {
+        min-width: 375px !important;
+      }
+    }
+  </style> 
+<!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG />
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]--> 
+<style>
+    /* 2 Equal-Width Columns V2 Layout Pattern CSS */
+    @media only screen and (max-width: 640px) {
+      td[class="pattern"] table {
+        width: 100%;
+      }
+
+      td[class="pattern"] .hero_image img {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+      }
+    }
+
+    .hero_image {
+      width: 100% !important;
+    }
+
+    .full-width {
+      width: 100% !important;
+      max-width: 100% !important;
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+    }
+    
+    @media only screen and (min-width: 641px) {
+      .two-col-stackable-mobile {
+ 		max-height: 0; /* Gmail*/
+    	display: none !important; /* Generic*/
+    	mso-hide: all; /* Outlook clients*/
+    	overflow: hidden; /* Generic */
+    	font-size: 0;
+      }
+    }
+
+    @media only screen and (max-width: 640px) {
+      .two-col-stackable-desktop {
+ 		max-height: 0; /* Gmail*/
+    	display: none !important; /* Generic*/
+    	mso-hide: all; /* Outlook clients*/
+    	overflow: hidden; /* Generic */
+    	font-size: 0;
+      }
+      
+      .two-col-stackable-mobile {
+ 		display: block !important;
+      }
+      
+      td[class="pattern"] .spacer {
+        display: none;
+      }
+
+      td[class="pattern"] .col {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block;
+      }
+
+      td[class="pattern"] .col:first-child {
+        margin-bottom: 30px;
+      }
+
+      td[class="pattern"] .hero_image img {
+        width: 100%;
+      }
+    }
+
+    .button-td,
+    .button-a {
+      transition: all 100ms ease-in;
+    }
+
+    @media only screen and (max-width: 640px) {
+      
+      .column {
+      	display: block;
+      	width: 100% !important;
+      	max-width: 100% !important;
+      	-moz-box-sizing: border-box;
+      	-webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding-left: 25px !important;
+        padding-right: 25px !important;
+      }
+      
+      .mobile-spacing {
+        padding-top: 15px !important;
+      }
+
+      .mobile-padding {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+      }
+
+      .mobile-text {
+        font-size: 16px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        max-width: 640px !important;
+      }
+
+      .mobile-text-small {
+        font-size: 9px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        max-width: 640px !important;
+      }
+
+      .mobile-text-footer {
+        font-size: 12px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        max-width: 640px !important;
+      }
+
+      .mobile-text-header {
+        font-size: 22px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+      }
+
+      .mobile-image {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+      }
+
+      .mobile-image-thumbnail-left {
+        padding-left: 15px !important;
+      }
+
+      .mobile-image-thumbnail-right {
+        padding-right: 15px !important;
+      }
+
+      .hide {
+        display: none !important;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        height: 0px !important;
+      }
+    }
+  </style> 
+<!--[if mso]>
+    <style type="text/css">
+      body, table, td {
+        font-family: Arial, Helvetica, sans-serif !important;
+      }
+    </style>
+  <![endif]--> 
+<title>Lucidpress</title> 
+</head> 
+<body width="100%" bgcolor="#f2f2f2" style="Margin: 0;"><style type="text/css">div#emailPreHeader{ display: none !important; }</style><div id="emailPreHeader" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">Send prints to multiple addresses via direct mail — all from within Lucidpress.</div>
+<img src="http://email.lucidpress.co/trk?t=1&mid=ODA1LVBUWi0wMTk6MDo4MTc5OjEwNDEzMjoxOjE5NDgwOjk6MjM4MjQ4OjI4MzYwNzM5MS0xOm51bGw%3D" width="1" height="1" style="display:none !important;" alt="" />
+ 
+<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" bgcolor="#f2f2f2" style="border-collapse:collapse;" class="mobile-color"> 
+<tbody> 
+<tr> 
+<td valign="top"> 
+<center style="width: 100%;"> 
+<div style="max-width: 640px;"> 
+<!--[if mso]>
+            <table cellspacing="0" cellpadding="0" border="0" width="640" style="max-width: 640px; min-width: 640px;" align="center">
+            <tr>
+            <td width="640">
+            <![endif]--> 
+<table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="98%" style="max-width: 640px; box-shadow: 0 0 12px rgba(0,0,0,.4);"> 
+<tbody class="mktoContainer" id="template-wrapper">
+<tr class="mktoModule" id="header-logo71438595-4026-481f-b3b8-ee32242e427f"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td height="0px"></td> 
+</tr> 
+<tr bgcolor="#FFFFFF"> 
+<td text-align="left" valign="middle" style="font-size:0; padding: 25px 90px 0px 90px;" class="mobile-text"> 
+<div class="mktoImg" id="pressLogoImage71438595-4026-481f-b3b8-ee32242e427f" mktolockimgsize="false"> 
+<a href=
+"http://email.lucidpress.co/kPjyb0q50LL03TnZe70rb0Z"
+><img style="float:left; border:0; vertical-align:middle;" text-align="left" alt="Lucidpress" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/marketo/PressMarketing/PressNewLogo300x50.png" width="150"></a> 
+</div> </td> 
+</tr> 
+<tr> 
+<td height="20px"></td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="color-sectionc3ff47b7-46a6-4c77-abd5-da461da21982"> 
+<td style="padding-top: 20px;padding-bottom: 40px;background-image: url(https://d2slcw3kip6qmk.cloudfront.net/marketing/marketo/PressMarketing/Lucidpress-Pattern-1-640.jpg);background-position: bottom;background-repeat: no-repeat;background-size: auto; background-color: #242954; color: #FFFFFF;"> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="color: #FFFFFF; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; "> 
+<tbody> 
+<tr> 
+<td style="padding: 0 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 40px; mso-height-rule: exactly; line-height: 1.15; font-weight: 300;" class="mobile-text-header"> 
+<div class="mktoText" id="color-section-titlec3ff47b7-46a6-4c77-abd5-da461da21982" style="font-weight: 300;"> 
+<div style="color: #ffffff; font-family: Barlow, Roboto, sans-serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"> 
+<strong><span style="font-size: 30px;">Tip #5</span></strong> 
+</div> 
+<div style="color: #ffffff; font-family: Barlow, Roboto, sans-serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+ Mail it to the masses 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+<tr style="display: inline-block;"> 
+<td style="padding: 30px 90px 0 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 17px; mso-height-rule: exactly; line-height: 1.4;" class="mobile-text"> 
+<div class="mktoText" id="color-section-contentc3ff47b7-46a6-4c77-abd5-da461da21982" style="font-weight: 300;"> 
+<div>
+ All you have to do is design your content, create a mailing list and hit send — voila! 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+<!-- -- bulletproof button | START ----> 
+<tr align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding: 30px 90px 0 90px" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="display: table; max-width:225px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div style="display: inline-block;width: 100%;"> 
+<!--[if mso]>
+                                            <a:roundrect
+                                              xmlns:a="urn:schemas-microsoft-com:vml"
+                                              xmlns:w="urn:schemas-microsoft-com:office:word"
+                                              href=
+"http://email.lucidpress.co/B705zP3Zq000bjLT0esbLZn"
+                                              style="display:inline-block;height:35px;v-text-anchor:middle;width:225px;"
+                                              arcsize="12%"
+                                              strokecolor="#00c2a8"
+                                              fillcolor="#00c2a8"
+                                            
+>
+                                              <w:anchorlock />
+                                              <center
+                                                style="color:#ffffff;
+                                                                   font-family:Helvetica, Arial,sans-serif;
+                                                                   font-size:16px; 
+                                                                   font-weight:bold; 
+                                                                   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2);"
+                                                class="a1"
+                                              >
+												Learn how
+                                                </center
+                                              >
+                                            </a:roundrect>
+                                          <![endif]--> 
+<a href=
+"http://email.lucidpress.co/B705zP3Zq000bjLT0esbLZn" style="display: inline-block;background-color:#00c2a8; border-radius:6px; color:#ffffff;font-family:sans-serif;font-size:16px;line-height:35px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all; font-weight:500; box-shadow: 2px 2px 0 0 rgba(0,0,0,.2); border-radius: 3px; border: 1px solid #00c2a8;transition:.1s;" class="a1"
+> Learn how </a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+<!-- -- bulletproof button | END ----> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="single-img1d322655-aa10-4b60-a67b-28686f10425c"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td valign="middle" align="center" style="font-size:0px; line-height:0px; padding: 20px 90px 10px 90px;" width="100%" class="mobile-image"> <a href=
+"http://email.lucidpress.co/I07jtPe0bbLAqn3Z0L0TZ05"
+> <img src="https://d2slcw3kip6qmk.cloudfront.net/press/Marketing/Onboarding/OrderPrints2.jpeg" alt="Lucidchart integrations" border="0" width="530" style="display:block; width:100%; max-width:530px; font-size:0px; line-height:0px; color:#ffffff; text-decoration:none;"> </a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="sub-heading1e4334e8-9d84-4488-a6dd-59d977b70330"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding-left: 90px; padding-right: 90px; padding-top: 20px; padding-bottom: 10px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 18px; mso-height-rule: exactly; line-height: 1.15; font-weight: 500; color: #000000;" class="mobile-text-header"> <h2 style="margin:0;font-weight:500;"> 
+<div class="mktoText" id="subheading1e4334e8-9d84-4488-a6dd-59d977b70330"> 
+<div>
+ Simple and straightforward 
+<br> 
+</div> 
+</div> </h2> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="content-blocke8ba462d-47e5-4136-9c07-63def4926353"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding: 10px 90px 10px 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 16px; mso-height-rule: exactly; line-height: 23px; color: #000;" class="mobile-text"> 
+<div class="mktoText" id="content-block-texte8ba462d-47e5-4136-9c07-63def4926353"> 
+<div>
+ Save your business from the tedious work of stamping and labeling mail by hand. Whether you’re sending out a postcard, invitation or flyer, Lucidpress makes it easy to create content and send it out for delivery — all from one place. 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="buttonc3448a43-3de4-437a-a1c3-985e91f2bb9f" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding:10px 90px 20px 90px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:225px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <a:roundrect
+                                      xmlns:a="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=
+"http://email.lucidpress.co/VeTBj05nL70Z300PbbZLuq0"
+                                      style="height:35px;v-text-anchor:middle;width:225px; box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); "
+                                      arcsize="12%"
+                                      strokecolor="#00c2a8"
+                                      fillcolor="#00c2a8"
+                                    
+>
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#ffffff;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:16px; 
+                                                   font-weight:bold; 
+                                                   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); border: solid #00c2a8 1px;"
+                                        class="a1"
+                                      >
+                                        Learn how
+                                      </center>
+                                    </a:roundrect>
+                                  <![endif]--> 
+<a href=
+"http://email.lucidpress.co/VeTBj05nL70Z300PbbZLuq0" style="background-color:#00c2a8; border-radius:6px; color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;line-height:35px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all; font-weight:500; box-shadow: 2px 2px 0 0 rgba(0,0,0,.2); border: 1px solid #00c2a8; border-radius: 3px;transition:.1s;" class="a1"
+> Learn how </a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="line94fd5fbd-e05d-4860-b363-e1c1e984e3f6" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding-left: 90px; padding-right: 90px; padding-top: 10px; padding-bottom: 10px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:640px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <v:roundrect
+                                      xmlns:v="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=""
+                                      style="height:2px;v-text-anchor:middle;width:450px;"
+                                      arcsize="12%"
+                                      strokecolor="#000"
+                                      fillcolor="#000"
+                                    >
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#000;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:0px;"
+                                        >&nbsp;</center
+                                      >
+                                    </v:roundrect>
+                                  <![endif]--> 
+<span href="https://www.lucidpress.com" style="background-color:#000; border-radius:6px; color:#000;display:inline-block;font-family:sans-serif;font-size:0x;line-height:2px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all;">&nbsp;</span> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="single-imgb13f27e7-c954-4886-b35d-18d0716b1e7d"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td valign="middle" align="center" style="font-size:0px; line-height:0px; padding: 10px 90px 10px 90px;" width="100%" class="mobile-image"> <a href=
+"http://email.lucidpress.co/z0Ze3nb00jbTqvL7PLC5Z00"
+> <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/press/real-estate/direct-mail-preview@2x.png" alt="Lucidchart integrations" border="0" width="530" style="display:block; width:100%; max-width:530px; font-size:0px; line-height:0px; color:#ffffff; text-decoration:none;"> </a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="sub-heading87c9ee71-8383-4d5d-9d81-2fa5463747b1"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding-left: 90px; padding-right: 90px; padding-top: 20px; padding-bottom: 10px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 18px; mso-height-rule: exactly; line-height: 1.15; font-weight: 500; color: #000000;" class="mobile-text-header"> <h2 style="margin:0;font-weight:500;"> 
+<div class="mktoText" id="subheading87c9ee71-8383-4d5d-9d81-2fa5463747b1"> 
+<div>
+ Customizable and targeted 
+<br> 
+</div> 
+</div> </h2> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="content-block7ab349d9-a624-454a-b51b-5f535be9885f"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding: 10px 90px 10px 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 16px; mso-height-rule: exactly; line-height: 23px; color: #000;" class="mobile-text"> 
+<div class="mktoText" id="content-block-text7ab349d9-a624-454a-b51b-5f535be9885f"> 
+<div> 
+<span style="color: #000000; font-family: Barlow, Roboto, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Hone in on customers in specific geographic locations around your business, or target your audiences based on relevant demographics such as age, income, employment and more.</span> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="buttonc6ef1bdb-acd3-4019-8f4d-180cd45f016f" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding:10px 90px 20px 90px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:225px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <a:roundrect
+                                      xmlns:a="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=
+"http://email.lucidpress.co/G7T0ZL30eDbwP0nb0j50LqZ"
+                                      style="height:35px;v-text-anchor:middle;width:225px; box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); "
+                                      arcsize="12%"
+                                      strokecolor="#00c2a8"
+                                      fillcolor="#00c2a8"
+                                    
+>
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#ffffff;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:16px; 
+                                                   font-weight:bold; 
+                                                   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); border: solid #00c2a8 1px;"
+                                        class="a1"
+                                      >
+                                        Learn how
+                                      </center>
+                                    </a:roundrect>
+                                  <![endif]--> 
+<a href=
+"http://email.lucidpress.co/G7T0ZL30eDbwP0nb0j50LqZ" style="background-color:#00c2a8; border-radius:6px; color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;line-height:35px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all; font-weight:500; box-shadow: 2px 2px 0 0 rgba(0,0,0,.2); border: 1px solid #00c2a8; border-radius: 3px;transition:.1s;" class="a1"
+> Learn how </a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="line207147e5-7d6c-4d92-a1bf-93d21b462ccf" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding-left: 90px; padding-right: 90px; padding-top: 10px; padding-bottom: 10px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:640px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <v:roundrect
+                                      xmlns:v="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=""
+                                      style="height:2px;v-text-anchor:middle;width:450px;"
+                                      arcsize="12%"
+                                      strokecolor="#000"
+                                      fillcolor="#000"
+                                    >
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#000;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:0px;"
+                                        >&nbsp;</center
+                                      >
+                                    </v:roundrect>
+                                  <![endif]--> 
+<span href="https://www.lucidpress.com" style="background-color:#000000; border-radius:6px; color:#000000;display:inline-block;font-family:sans-serif;font-size:0x;line-height:2px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all;">&nbsp;</span> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="single-img9caf5088-38b9-46c9-9e2f-35768dec7165"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td valign="middle" align="center" style="font-size:0px; line-height:0px; padding: 10px 90px 10px 90px;" width="100%" class="mobile-image"> <a href=
+"http://email.lucidpress.co/kPjEb0q50LL03TnZe70xb0Z"
+> <img src="https://d2slcw3kip6qmk.cloudfront.net/press/Marketing/Onboarding/Letterheads1.png" alt="Lucidchart integrations" border="0" width="530" style="display:block; width:100%; max-width:530px; font-size:0px; line-height:0px; color:#ffffff; text-decoration:none;"> </a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="sub-heading45cb1a3b-ef35-41fd-a512-6ddca392ea47"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding-left: 90px; padding-right: 90px; padding-top: 20px; padding-bottom: 10px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 18px; mso-height-rule: exactly; line-height: 1.15; font-weight: 500; color: #000000;" class="mobile-text-header"> <h2 style="margin:0;font-weight:500;"> 
+<div class="mktoText" id="subheading45cb1a3b-ef35-41fd-a512-6ddca392ea47"> 
+<div>
+ Lead with a letterhead 
+<br> 
+</div> 
+</div> </h2> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="content-block8ff1d6f3-65aa-4691-8c17-c2daa438f89c"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding: 10px 90px 10px 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 16px; mso-height-rule: exactly; line-height: 23px; color: #000;" class="mobile-text"> 
+<div class="mktoText" id="content-block-text8ff1d6f3-65aa-4691-8c17-c2daa438f89c"> 
+<div>
+ Make a lasting impression with a memorable, professionally-designed letterhead. Lockdown specific assets, like your logo or contact information, while empowering reps to replace specific textboxes or images — so your brand stays consistent and strong. 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="button3c7c837b-88ce-449c-9d29-16e99576e673" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding:10px 90px 20px 90px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:225px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <a:roundrect
+                                      xmlns:a="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=
+"http://email.lucidpress.co/Q0LZ0eT0Py3bZjq7n50FbL0"
+                                      style="height:35px;v-text-anchor:middle;width:225px; box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); "
+                                      arcsize="12%"
+                                      strokecolor="#00c2a8"
+                                      fillcolor="#00c2a8"
+                                    
+>
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#ffffff;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:16px; 
+                                                   font-weight:bold; 
+                                                   box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.2); border: solid #00c2a8 1px;"
+                                        class="a1"
+                                      >
+                                        Pick a template
+                                      </center>
+                                    </a:roundrect>
+                                  <![endif]--> 
+<a href=
+"http://email.lucidpress.co/Q0LZ0eT0Py3bZjq7n50FbL0" style="background-color:#00c2a8; border-radius:6px; color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;line-height:35px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all; font-weight:500; box-shadow: 2px 2px 0 0 rgba(0,0,0,.2); border: 1px solid #00c2a8; border-radius: 3px;transition:.1s;" class="a1"
+> Pick a template </a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="line7599eaff-f42a-4cf8-83f9-3d683dc550ea" align="left"> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding-left: 90px; padding-right: 90px; padding-top: 10px; padding-bottom: 10px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:640px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                    <v:roundrect
+                                      xmlns:v="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"
+                                      href=""
+                                      style="height:2px;v-text-anchor:middle;width:450px;"
+                                      arcsize="12%"
+                                      strokecolor="#000"
+                                      fillcolor="#000"
+                                    >
+                                      <w:anchorlock />
+                                      <center
+                                        style="color:#000;
+                                                   font-family:Helvetica, Arial,sans-serif;
+                                                   font-size:0px;"
+                                        >&nbsp;</center
+                                      >
+                                    </v:roundrect>
+                                  <![endif]--> 
+<span href="https://www.lucidpress.com" style="background-color:#000000; border-radius:6px; color:#000000;display:inline-block;font-family:sans-serif;font-size:0x;line-height:2px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all;">&nbsp;</span> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="sub-headingaa612db6-08f6-4788-b9f4-8ba766604ee8"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding-left: 90px; padding-right: 90px; padding-top: 20px; padding-bottom: 10px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 18px; mso-height-rule: exactly; line-height: 1.15; font-weight: 500; color: #000000;" class="mobile-text-header"> <h2 style="margin:0;font-weight:500;"> 
+<div class="mktoText" id="subheadingaa612db6-08f6-4788-b9f4-8ba766604ee8"> 
+<div>
+ Ready for seconds? 
+<br> 
+</div> 
+</div> </h2> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="content-block8d82fa0a-c2db-46b8-aaf0-a5deb3dfb433"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+<tbody> 
+<tr> 
+<td style="padding: 10px 90px 30px 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 16px; mso-height-rule: exactly; line-height: 23px; color: #000;" class="mobile-text"> 
+<div class="mktoText" id="content-block-text8d82fa0a-c2db-46b8-aaf0-a5deb3dfb433"> 
+<div>
+ Take advantage of a 
+<a href=
+"http://email.lucidpress.co/CTL00Z0YbjDP0qne3Z59Z0b" target="_blank"
+>Pro account</a>, free for 7 days, and gain access to unlimited pages, high quality downloads and more. 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+<tr class="mktoModule" id="footer"> 
+<td> 
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="background-image: url(http://www2.golucid.co/rs/805-PTZ-019/images/Marketo_Email_Footer.png);background-position: bottom;background-repeat: no-repeat;background-size: auto; background-color: #242954; color: #fff; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;"> 
+<tbody> 
+<tr> 
+<td> 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td width="60%"> 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td valign="top" style="font-family: Barlow, Roboto, sans-serif; font-size: 12px; line-height: 20px; color: #fff; padding: 30px 10px 10px 90px; text-align: left; " class="mobile-text-footer"> © 2020&nbsp;Lucid Software Inc.<br> <a href=
+"http://email.lucidpress.co/uAqj00eTbb0n5H03LLZPZ70" target="_blank" style="text-decoration: none; color: #fff; cursor: default;"
+>10355 South Jordan Gateway, Suite 150<br> South Jordan, UT 84095 USA<br></a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+<td width="40%" valign="top" align="right"> 
+<table align="right" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td valign="top" style="padding: 30px 90px 10px 10px; float: right;" class="mobile-image-thumbnail-right"> 
+<table width="80%"> 
+<tbody> 
+<tr> 
+<td style="height: 22px; margin: 0 2px; max-height: 22px; width: 22px; max-width: 22px;"> <a target="_blank" href=
+"http://email.lucidpress.co/NT00BPZn00j7LLZ5Iqb0e3b" style="color:transparent;"
+> <img style="height: 22px; max-height: 22px; width: 22px; max-width: 22px;" src="http://www2.golucid.co/rs/805-PTZ-019/images/facebook25.png" alt="Lucidpress on Facebook"> </a> </td> 
+<td style="height: 22px; margin: 0 2px; max-height: 22px; width: 22px; max-width: 22px;"> <a target="_blank" href=
+"http://email.lucidpress.co/f00Ln5b0eC0j7T3ZPqZJL0b" style="color:transparent;"
+> <img style="height: 22px; max-height: 22px; width: 22px; max-width: 22px;" src="http://www2.golucid.co/rs/805-PTZ-019/images/twitter25.png" alt="Lucidpress on Twitter"> </a> </td> 
+<td style="height: 22px; margin: 0 2px; max-height: 22px; width: 22px; max-width: 22px;"> <a target="_blank" href=
+"http://email.lucidpress.co/JT3bPZ0D7Z0qKLe5nL00jb0" style="color:transparent;"
+> <img style="height: 22px; max-height: 22px; width: 22px; max-width: 22px;" src="http://www2.golucid.co/rs/805-PTZ-019/images/youtube25.png" alt="Lucidpress on YouTube"> </a> </td> 
+<td style="height: 22px; margin: 0 2px; max-height: 22px; width: 22px; max-width: 22px;"> <a target="_blank" href=
+"http://email.lucidpress.co/Y0nbL5LqL00Ze0j3bTP0EZ7" style="color:transparent;"
+> <img style="height: 22px; max-height: 22px; width: 22px; max-width: 22px;" src="http://www2.golucid.co/rs/805-PTZ-019/images/linkedin25.png" alt="Lucidpress on LinkedIn"> </a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+<!-- -- white line | START ----> 
+<tr> 
+<td align="center" valign="middle" width="100%" height="100%" style="padding:10px 90px 10px 90px;" class="mobile-padding"> 
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:640px;"> 
+<tbody> 
+<tr align="left"> 
+<td> 
+<div> 
+<!--[if mso]>
+                                          <v:roundrect
+                                            xmlns:v="urn:schemas-microsoft-com:vml"
+                                            xmlns:w="urn:schemas-microsoft-com:office:word"
+                                            href=""
+                                            style="height:2px;v-text-anchor:middle;width:450px;"
+                                            arcsize="12%"
+                                            strokecolor="#fff"
+                                            fillcolor="#fff"
+                                          >
+                                            <w:anchorlock />
+                                            <center
+                                              style="color:#fff;
+                                                               font-family:Helvetica, Arial,sans-serif;
+                                                               font-size:0px;"
+                                              >&nbsp;</center
+                                            >
+                                          </v:roundrect>
+                                        <![endif]--> 
+<span href="https://www.lucidpress.com" style="background-color:#fff; border-radius:6px; color:#fff;display:inline-block;font-family:sans-serif;font-size:0x;line-height:2px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all;">&nbsp;</span> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+<!-- -- white line | END ----> 
+<tr> 
+<td width="100%" style="padding: 12.5px 90px 100px 90px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 12px; mso-height-rule: exactly; line-height: 1.4; color: #fff;" class="mobile-text-footer"> 
+<div class="mktoText" id="footer-content"> 
+<div>
+ You received this email because you are subscribed to emails from Lucidpress. Update your 
+<a style="color: #fff;" href="http://www2.golucid.co/LP-SubscriptionManagement.html?utm_source=product-qualified&amp;utm_medium=email&amp;utm_campaign=onboarding&amp;utm_content=tip5&amp;utm_button=unsubscribe" target="_blank">email preferences</a> to choose the types of emails you receive. 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr>
+</tbody> 
+</table> 
+<!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--> 
+<!--[if mso]>
+            <table cellspacing="0" cellpadding="0" border="0" width="640" style="max-width: 640px; min-width: 640px;">
+            <tr>
+            <td width="640">
+            <![endif]--> 
+<table cellspacing="0" cellpadding="0" border="0" width="98%" style="display: none;-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; max-width: 640px;"> 
+<tbody> 
+<tr> 
+<td width="100%" style="padding: 12.5px 10px 100px 10px; text-align:left; font-family: Barlow, Roboto, sans-serif; font-size: 12px; mso-height-rule: exactly; line-height: 1.4; color: #999;" class="mobile-text-footer"> 
+<div class="mktoText" id="footer-content-simple">
+You received this email because you are subscribed to emails from Lucidpress. Update your 
+<a style="color: #999;" href="http://www2.golucid.co/LP-SubscriptionManagement.html">email preferences</a> to choose the types of emails you receive.
+</div> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--> 
+</div> 
+</center> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!-- -- footer code | START -- --> 
+<style>
+    $ {
+      footStyle
+    }
+  </style> 
+<div id="“_eoa_div”"></div> 
+<img id="_eoa_img" src="" style="height:1px!important;width:1px !important;border-width:0 !important;margin-top:0!important;margin-bottom:0 !important;margin-right:0!important;margin-left:0 !important;padding-top:0!important;padding-bottom:0 !important;padding-right:0!important;padding-left:0 !important;display:block;" alt="" title="" border="0" width="1" height="1"> 
+<!-- -- footer code | END -- -->  
+
+<!--This is a comment -->
+</body>
+</html>
