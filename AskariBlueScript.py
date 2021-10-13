@@ -23,28 +23,6 @@ def posTag_email(email):
     tagged_text = pos_tag_sents(map(word_tokenize, text))
     return tagged_text 
 
-def extractGrammar(email): #i send in emails['POS']
-    
-    # Updated calculate the tags I need 
-    tag_count_data = pd.DataFrame(email['POS_Tag'].map(lambda x: Counter(tag[1] for tag in x)).to_list())
-
-    # Print count Part of speech tag needed for Adjective, Adverbs, Nouns and Verbs 
-    email = pd.concat([email, tag_count_data], axis=1).fillna(0)
-
-    pos_columns = ['PRP','MD','JJ','JJR','JJS','RB','RBR','RBS', 'NN', 'NNS','VB', 'VBS', 'VBG','VBN','VBP','VBZ']
-    for pos in pos_columns:
-        if pos not in email.columns:
-            email[pos] = 0
-
-    email = email[['text'] + pos_columns]
-
-    email['Adjectives'] = email['JJ']+email['JJR']+ email['JJS']
-    email['Adverbs'] = email['RB']+email['RBR'] + email['RBS']
-    email['Nouns'] = email['NN']+email['NNS']
-    email['Verbs'] = email['VB']+email['VBS']+email['VBG']+email['VBN']+email['VBP'] +email['VBZ'] 
-
-    return email
-
 
 # read file into pandas dataFrame
 emailtext = pd.read_csv('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt', sep='\n', header=None)[0].str.cat()
@@ -60,5 +38,32 @@ print(emails)
 
 #Compute email text characteristics for Text-based features
 # Updated calculate the tags I need 
-emails=emails.apply(extractGrammar, axis = 1)
+###emails=emails.apply(extractGrammar, axis = 1)
+### print(emails)
+
+#######################Compute email text characteristics for Text-based features ----- this could totally go into a function but HOW???????######################
+# Updated calculate the tags I need 
+
+tag_count_data = pd.DataFrame(emails['POS_Tag'].map(lambda x: Counter(tag[1] for tag in x)).to_list())
+
+#trying to have the POS taggs printed out for each data. 
+emails = pd.concat([emails, tag_count_data], axis=1).fillna(0)
+
+pos_columns = ['PRP','MD','JJ','JJR','JJS','RB','RBR','RBS', 'NN', 'NNS','VB', 'VBS', 'VBG','VBN','VBP','VBZ']
+for pos in pos_columns:
+  if pos not in emails.columns:
+    emails[pos] = 0
+
+emails = emails[['text'] + pos_columns]
+
+emails['Adjectives'] = emails['JJ']+emails['JJR']+ emails['JJS']
+emails['Adverbs'] = emails['RB']+emails['RBR'] + emails['RBS']
+emails['Nouns'] = emails['NN']+emails['NNS']
+emails['Verbs'] = emails['VB']+emails['VBS']+emails['VBG']+emails['VBN']+emails['VBP'] +emails['VBZ'] 
+
+emails = emails[['text']+['PRP']+['MD']+['Adjectives']+['Adverbs']+['Nouns']+['Verbs']]
+
+
+#####################################################################################################################################################################
+
 print(emails)
