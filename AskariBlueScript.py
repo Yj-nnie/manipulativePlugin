@@ -60,6 +60,14 @@ def extractGrammar(x):
 
     return email_tag
 
+# Add text characteristics to existing dictionary
+def addPhraseCharacteristics(emailtext,x_grammarTag):
+  x_grammarTag['wordcount'] = len(re.findall("[a-zA-Z_]+", emailtext))
+  return x_grammarTag
+
+
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
 x_grammarTag = extractGrammar(posTag_email_one(emailtext))
-print(x_grammarTag)
+#print(x_grammarTag)
+x_phraseCharacteristics = addPhraseCharacteristics(emailtext,x_grammarTag)
+print(x_phraseCharacteristics)
