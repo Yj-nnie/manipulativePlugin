@@ -61,28 +61,49 @@ def extractGrammar(x):
     return email_tag
 
 # Add text characteristics to existing dictionary
-def addPhraseCharacteristics(emailtext,x_grammarTag):
+def addPhraseCharacteristics(emailtext,grammarTag):
 
   #wordCount
-  x_grammarTag['wordcount'] = len(re.findall("[a-zA-Z_]+", emailtext))
+  grammarTag['wordcount'] = len(re.findall("[a-zA-Z_]+", emailtext))
 
   # total number of punctuation
   count = lambda l1,l2: sum([1 for x in l1 if x in l2])
-  x_grammarTag['totalPunctuation']= count(emailtext,set(string.punctuation)) 
+  grammarTag['totalPunctuation']= count(emailtext,set(string.punctuation)) 
 
   # totalDots = at least one because there is at least one phrase in an email
-  x_grammarTag['totalDots'] = emailtext.count('[.]') 
-  if x_grammarTag['totalDots'] == 0:
-     x_grammarTag['totalDots'] = 1
+  grammarTag['totalDots'] = emailtext.count('[.]') 
+  if grammarTag['totalDots'] == 0:
+     grammarTag['totalDots'] = 1
 
   # total characters without space
-  x_grammarTag['totalCharacters'] = len(emailtext) - emailtext.count(" ")
+  grammarTag['totalCharacters'] = len(emailtext) - emailtext.count(" ")
 
-  return x_grammarTag
+  return grammarTag
+
+def addComplexity(primary_features):
+
+
+  primary_features['avg_sentenceLength'] = primary_features['wordcount']/primary_features['totalDots']
+  primary_features['avg_wordeLength'] = primary_features['totalCharacters']/primary_features['wordcount']
+  primary_features['pausality'] = primary_features['totalPunctuation']/primary_features['totalDots'] 
+
+  return primary_features
+
+def transform_email(emailtext): #obtain all features
+  
+  #Primary features: add grammar tags and sentence characteristic tags
+  primary_feature = extractGrammar(posTag_email_one(emailtext))
+  primary_feature = addPhraseCharacteristics(emailtext,primary_feature)
+
+  #Features based on primary features
+  feature_complexity = addComplexity(primary_feature)
+  
+
+  return feature_complexity
 
 
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
-x_grammarTag = extractGrammar(posTag_email_one(emailtext))
-#print(x_grammarTag)
-x_phraseCharacteristics = addPhraseCharacteristics(emailtext,x_grammarTag)
-print(x_phraseCharacteristics)
+
+features = transform_email(emailtext)
+
+print(features)
