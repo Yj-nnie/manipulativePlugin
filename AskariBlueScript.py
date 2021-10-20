@@ -80,7 +80,7 @@ def addPhraseCharacteristics(emailtext,grammarTag):
 
   return grammarTag
 
-def addComplexity(emailtext, features_dict):
+def phraseFeatures(emailtext, features_dict):
 
   #complexity
   features_dict['avg_sentenceLength'] = features_dict['wordcount']/features_dict['totalDots']
@@ -98,6 +98,13 @@ def addComplexity(emailtext, features_dict):
   #authority
   features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
 
+  #neaten up needed features
+  key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters")
+  for k in key_to_remove:
+    if k in features_dict:
+      del features_dict[k]
+
+
   return features_dict
 
 
@@ -108,10 +115,10 @@ def transform_email(emailtext): #obtain all features
   primary_feature = addPhraseCharacteristics(emailtext,primary_feature)
 
   #Features based on primary features
-  feature_complexity = addComplexity(emailtext, primary_feature)
+  phrase_features = phraseFeatures(emailtext, primary_feature)
   
 
-  return feature_complexity
+  return phrase_features
 
 
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
