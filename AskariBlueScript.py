@@ -62,7 +62,22 @@ def extractGrammar(x):
 
 # Add text characteristics to existing dictionary
 def addPhraseCharacteristics(emailtext,x_grammarTag):
+
+  #wordCount
   x_grammarTag['wordcount'] = len(re.findall("[a-zA-Z_]+", emailtext))
+
+  # total number of punctuation
+  count = lambda l1,l2: sum([1 for x in l1 if x in l2])
+  x_grammarTag['totalPunctuation']= count(emailtext,set(string.punctuation)) 
+
+  # totalDots = at least one because there is at least one phrase in an email
+  x_grammarTag['totalDots'] = emailtext.count('[.]') 
+  if x_grammarTag['totalDots'] == 0:
+     x_grammarTag['totalDots'] = 1
+
+  # total characters without space
+  x_grammarTag['totalCharacters'] = len(emailtext) - emailtext.count(" ")
+
   return x_grammarTag
 
 
