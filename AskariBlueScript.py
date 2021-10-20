@@ -99,7 +99,7 @@ def phraseFeatures(emailtext, features_dict):
   features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
 
   #neaten up needed features
-  key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters")
+  key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters","modifier")
   for k in key_to_remove:
     if k in features_dict:
       del features_dict[k]
