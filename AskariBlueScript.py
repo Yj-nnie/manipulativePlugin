@@ -53,7 +53,7 @@ def extractGrammar(x):
     
     email_tag['PRP'] = tag_count_dict['PRP']
     email_tag['MD'] = tag_count_dict['MD']
-    email_tag['Adjecitves'] = tag_count_dict['JJ'] + tag_count_dict['JJR'] + tag_count_dict['JJS']
+    email_tag['Adjectives'] = tag_count_dict['JJ'] + tag_count_dict['JJR'] + tag_count_dict['JJS']
     email_tag['Adverbs'] = tag_count_dict['RB'] + tag_count_dict['RBR'] + tag_count_dict['RBS']
     email_tag['Nouns'] = tag_count_dict['NN'] + tag_count_dict['NNS']
     email_tag['Verbs'] = tag_count_dict['VB'] + tag_count_dict['VBS'] + tag_count_dict['VBG'] + tag_count_dict['VBN'] + tag_count_dict['VBP'] + tag_count_dict['VBZ']
@@ -80,14 +80,26 @@ def addPhraseCharacteristics(emailtext,grammarTag):
 
   return grammarTag
 
-def addComplexity(primary_features):
+def addComplexity(emailtext, features_dict):
 
+  #complexity
+  features_dict['avg_sentenceLength'] = features_dict['wordcount']/features_dict['totalDots']
+  features_dict['avg_wordeLength'] = features_dict['totalCharacters']/features_dict['wordcount']
+  features_dict['pausality'] = features_dict['totalPunctuation']/features_dict['totalDots'] 
 
-  primary_features['avg_sentenceLength'] = primary_features['wordcount']/primary_features['totalDots']
-  primary_features['avg_wordeLength'] = primary_features['totalCharacters']/primary_features['wordcount']
-  primary_features['pausality'] = primary_features['totalPunctuation']/primary_features['totalDots'] 
+  #uncertainty
+  features_dict['modifier'] = features_dict['Adjectives'] + features_dict['Adverbs']
+  features_dict['Uncertainty'] = features_dict['modifier'] / features_dict['wordcount']
+  features_dict['nonimmediacy'] = features_dict['PRP'] / features_dict['wordcount']
 
-  return primary_features
+  #expressiveness
+  features_dict['Expressiveness'] = features_dict['modifier'] / (features_dict['Nouns'] + features_dict['Verbs'])
+  
+  #authority
+  features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
+
+  return features_dict
+
 
 def transform_email(emailtext): #obtain all features
   
@@ -96,7 +108,7 @@ def transform_email(emailtext): #obtain all features
   primary_feature = addPhraseCharacteristics(emailtext,primary_feature)
 
   #Features based on primary features
-  feature_complexity = addComplexity(primary_feature)
+  feature_complexity = addComplexity(emailtext, primary_feature)
   
 
   return feature_complexity
