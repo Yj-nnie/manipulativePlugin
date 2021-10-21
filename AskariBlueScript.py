@@ -6,6 +6,8 @@ import nltk
 nltk.download('all')
 from collections import Counter
 from nltk import word_tokenize, pos_tag, pos_tag_sents
+#pip install vaderSentiment
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 def read_email(path):
   with open(path, 'r') as f:
@@ -108,6 +110,37 @@ def phraseFeatures(emailtext, features_dict):
   return features_dict
 
 
+def sentimentScore(sentence, features_dict):
+
+ # Create a SentimentIntensityAnalyzer object.
+    analyzer = SentimentIntensityAnalyzer()
+ #
+    sentiment_dict = analyzer.polarity_scores(sentence)
+
+    features_dict['neg'] = sentiment_dict['neg']
+    features_dict['neu'] = sentiment_dict['neu']
+    features_dict['pos'] = sentiment_dict['pos']
+    features_dict['compound'] = sentiment_dict['compound']
+    features_dict['scoreTag'] = sentimentTag(features_dict['compound'])
+
+    return features_dict 
+
+
+def sentimentTag(compoundScore):
+
+      if compoundScore >= 0.05 :
+        #positive
+        return 3
+ 
+      elif compoundScore <= - 0.05 :
+        #negative
+        return 1
+ 
+      else :
+        #neutral
+        return 2
+
+
 def transform_email(emailtext): #obtain all features
   
   #Primary features: add grammar tags and sentence characteristic tags
@@ -117,8 +150,10 @@ def transform_email(emailtext): #obtain all features
   #Features based on primary features
   phrase_features = phraseFeatures(emailtext, primary_feature)
   
+  #sentiment features
+  sentiment_features = sentimentScore(emailtext, phrase_features)
 
-  return phrase_features
+  return sentiment_features
 
 
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
