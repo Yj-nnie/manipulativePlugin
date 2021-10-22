@@ -17,20 +17,31 @@ def read_email(path):
 
 def preprocess(x):
 
-    # remove extra new lines
-    x = re.sub(r'\n+', ' ', x)
+  # remove extra new lines
+  x = re.sub(r'\n+', ' ', x)
     
-    # remove extra white spaces
-    x = re.sub(r'\s+', ' ', x)
+  # remove extra white spaces
+  x = re.sub(r'\s+', ' ', x)
     
     #getting rid of html/formatting tags -----> Decision MADE?
     #this step does not exist in my training data because there were no HTML tags
     #but text file from Askari Blue does have html tags.
-    p = re.compile(r'<.*?>')
-    x = p.sub('', x)
+  p = re.compile(r'<.*?>')
+  x = p.sub('', x)
+
+    # getting rid of any http links:
+  x=re.sub(r'http\S+', '', x)
 
     #print(x)
-    return x
+  return x
+
+def word_count(emailtext):
+
+  tokenizer = RegexpTokenizer(r'\w+')
+  #email_nohtml=re.sub(r'http\S+', '', emailtext) # getting rid of html links
+  tokens = tokenizer.tokenize(email_nohtml)
+  
+  return len(tokens)
 
 #Use pos_tag to get grammatical tags
 def posTag_email_one(email):
@@ -66,7 +77,7 @@ def extractGrammar(x):
 def addPhraseCharacteristics(emailtext,grammarTag):
 
   #wordCount
-  grammarTag['wordcount'] = len(re.findall("[a-zA-Z_]+", emailtext))
+  grammarTag['wordcount'] = word_count(emailtext)
 
   # total number of punctuation
   count = lambda l1,l2: sum([1 for x in l1 if x in l2])
