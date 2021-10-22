@@ -132,8 +132,8 @@ def sentimentScore(sentence, features_dict):
     features_dict['neg'] = sentiment_dict['neg']
     features_dict['neu'] = sentiment_dict['neu']
     features_dict['pos'] = sentiment_dict['pos']
-    features_dict['compound'] = sentiment_dict['compound']
-    features_dict['scoreTag'] = sentimentTag(features_dict['compound'])
+    #features_dict['compound'] = sentiment_dict['compound']
+    features_dict['scoreTag'] = sentimentTag(sentiment_dict['compound'])
 
     return features_dict 
 
@@ -152,6 +152,19 @@ def sentimentTag(compoundScore):
         #neutral
         return 2
 
+def wordswithCaps(emailtext, feature_dict):
+
+  upper_case = 0
+  num_words = word_count(emailtext)
+
+  for word in RegexpTokenizer(r'\w+').tokenize(emailtext): #list of tokens 
+    if word.isupper():
+      upper_case += 1
+
+  percentage = upper_case/num_words
+  feature_dict['caps percentage'] = percentage
+
+  return feature_dict
 
 def transform_email(emailtext): #obtain all features
   
@@ -164,6 +177,9 @@ def transform_email(emailtext): #obtain all features
   
   #sentiment features
   sentiment_features = sentimentScore(emailtext, phrase_features)
+
+  #all Caps features
+  final_feature_dict = wordswithCaps(emailtext, sentiment_features)
 
   return sentiment_features
 
