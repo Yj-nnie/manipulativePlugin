@@ -8,6 +8,7 @@ from collections import Counter
 from nltk import word_tokenize, pos_tag, pos_tag_sents
 #pip install vaderSentiment
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from nltk.tokenize import RegexpTokenizer
 
 def read_email(path):
   with open(path, 'r') as f:
@@ -39,7 +40,7 @@ def word_count(emailtext):
 
   tokenizer = RegexpTokenizer(r'\w+')
   #email_nohtml=re.sub(r'http\S+', '', emailtext) # getting rid of html links
-  tokens = tokenizer.tokenize(email_nohtml)
+  tokens = tokenizer.tokenize(emailtext)
   
   return len(tokens)
 
@@ -55,7 +56,7 @@ def extractGrammar(x):
     #Convert the Counter object to dict
     tag_count_dict = dict(tag_count_data)
     
-    #select Tags that I need
+    #select Tags that I need 
     pos_columns = ['PRP','MD','JJ','JJR','JJS','RB','RBR','RBS', 'NN', 'NNS','VB', 'VBS', 'VBG','VBN','VBP','VBZ']
     for pos in pos_columns:
       if pos not in tag_count_dict.keys():
@@ -112,10 +113,10 @@ def phraseFeatures(emailtext, features_dict):
   features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
 
   #neaten up needed features
-  key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters","modifier")
-  for k in key_to_remove:
-    if k in features_dict:
-      del features_dict[k]
+  ###key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters","modifier")
+  ###for k in key_to_remove:
+  ###  if k in features_dict:
+  ###    del features_dict[k]
 
 
   return features_dict
