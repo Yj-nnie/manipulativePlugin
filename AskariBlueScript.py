@@ -108,8 +108,9 @@ def phraseFeatures(emailtext, features_dict):
   features_dict['Expressiveness'] = features_dict['modifier'] / (features_dict['Nouns'] + features_dict['Verbs'])
   
   #authority
-  features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
-
+  number_of_you = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
+  features_dict['Authority'] =  number_of_you / features_dict['wordcount']
+  
   #neaten up needed features
   ###key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalSentence","totalCharacters","modifier")
   ###for k in key_to_remove:
