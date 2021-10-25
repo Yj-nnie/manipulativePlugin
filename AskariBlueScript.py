@@ -13,7 +13,6 @@ from nltk.tokenize import RegexpTokenizer
 def read_email(path):
   with open(path, 'r') as f:
     email = f.read()
-  #print(email)
   return email
 
 def preprocess(x):
@@ -24,29 +23,29 @@ def preprocess(x):
   # remove extra white spaces
   x = re.sub(r'\s+', ' ', x)
     
-    #getting rid of html/formatting tags -----> Decision MADE?
-    #this step does not exist in my training data because there were no HTML tags
-    #but text file from Askari Blue does have html tags.
+  #remove <html> tags
   p = re.compile(r'<.*?>')
   x = p.sub('', x)
 
-    # getting rid of any http links:
+  # remove hyperlinks
   x=re.sub(r'http\S+', '', x)
 
-    #print(x)
+  
   return x
 
 def word_count(emailtext):
 
   tokenizer = RegexpTokenizer(r'\w+')
-  #email_nohtml=re.sub(r'http\S+', '', emailtext) # getting rid of html links
+  
   tokens = tokenizer.tokenize(emailtext)
   
   return len(tokens)
 
 #Use pos_tag to get grammatical tags
 def posTag_email_one(email):
+
     tagged_text = pos_tag(word_tokenize(email))
+
     return tagged_text 
 
 def extractGrammar(x): 
@@ -84,10 +83,9 @@ def addPhraseCharacteristics(emailtext,grammarTag):
   count = lambda l1,l2: sum([1 for x in l1 if x in l2])
   grammarTag['totalPunctuation']= count(emailtext,set(string.punctuation)) 
 
-  # totalDots = at least one because there is at least one phrase in an email
-  grammarTag['totalDots'] = emailtext.count('[.]') 
-  if grammarTag['totalDots'] == 0:
-     grammarTag['totalDots'] = 1
+  #total number of sentences
+  regex = r"[A-Z][\w\s\d\,\'\;\:\"\(\)\[\]\%\$\!\?]*(\.)"
+  grammarTag['totalSentence']=len(list(re.finditer(regex, emailtext)))
 
   # total characters without space
   grammarTag['totalCharacters'] = len(emailtext) - emailtext.count(" ")
@@ -97,9 +95,9 @@ def addPhraseCharacteristics(emailtext,grammarTag):
 def phraseFeatures(emailtext, features_dict):
 
   #complexity
-  features_dict['avg_sentenceLength'] = features_dict['wordcount']/features_dict['totalDots']
+  features_dict['avg_sentenceLength'] = features_dict['wordcount']/features_dict['totalSentence']
   features_dict['avg_wordeLength'] = features_dict['totalCharacters']/features_dict['wordcount']
-  features_dict['pausality'] = features_dict['totalPunctuation']/features_dict['totalDots'] 
+  features_dict['pausality'] = features_dict['totalPunctuation']/features_dict['totalSentence'] 
 
   #uncertainty
   features_dict['modifier'] = features_dict['Adjectives'] + features_dict['Adverbs']
@@ -113,7 +111,7 @@ def phraseFeatures(emailtext, features_dict):
   features_dict['Authority'] = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
 
   #neaten up needed features
-  ###key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalDots","totalCharacters","modifier")
+  ###key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalSentence","totalCharacters","modifier")
   ###for k in key_to_remove:
   ###  if k in features_dict:
   ###    del features_dict[k]
