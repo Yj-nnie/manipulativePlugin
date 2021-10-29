@@ -9,6 +9,7 @@ from nltk import word_tokenize, pos_tag, pos_tag_sents
 #pip install vaderSentiment
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.tokenize import RegexpTokenizer
+import joblib
 
 def read_email(path):
   with open(path, 'r') as f:
@@ -96,7 +97,7 @@ def phraseFeatures(emailtext, features_dict):
 
   #complexity
   features_dict['avg_sentenceLength'] = features_dict['wordcount']/features_dict['totalSentence']
-  features_dict['avg_wordeLength'] = features_dict['totalCharacters']/features_dict['wordcount']
+  features_dict['avg_wordLength'] = features_dict['totalCharacters']/features_dict['wordcount']
   features_dict['pausality'] = features_dict['totalPunctuation']/features_dict['totalSentence'] 
 
   #uncertainty
@@ -182,9 +183,24 @@ def transform_email(emailtext): #obtain all features
 
   return sentiment_features
 
+def predict(features_dict, model):
+
+  proba = model.predict_proba(features_dict)
+  # [0.3, 0.7]
+  predicted_class = model.classes_[(np.argmax(proba))] 
+  return {
+      "class": predicted_class,
+      "proba": np.max(proba)
+  }
 
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
-
+model = joblib.load('/content/gdrive/MyDrive/Github/ManipulativePlugin/Models/V6_7_NBTrainModel Third')
 features = transform_email(emailtext)
 
-print(features)
+#print(features)
+features_names = ['avg_sentenceLength', 'avg_wordLength', 'pausality',  'Uncertainty', 'nonimmediacy', 'Expressiveness', 'Authority', 'neg', 'neu', 'pos', 'scoreTag', 'caps percentage'] #list
+features_list = [features[fn] for fn in features_names]
+predict = predict(np.array([features_list]), model)
+
+print(predict)
+
