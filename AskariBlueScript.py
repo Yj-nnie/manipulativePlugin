@@ -12,8 +12,8 @@ from nltk.tokenize import RegexpTokenizer
 import joblib
 
 def read_email(path):
-  with open(path, 'r') as f:
-    email = f.read()
+  with open(path, 'rb') as f:
+    email = f.read().decode('utf8','ignore')
   return email
 
 def preprocess(x):
@@ -194,7 +194,7 @@ def predict(features_dict, model):
   }
 
 emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
-model = joblib.load('/content/gdrive/MyDrive/Github/ManipulativePlugin/Models/V6_7_NBTrainModel Third')
+model = joblib.load('/content/gdrive/MyDrive/Github/ManipulativePlugin/Models/V6_7_SVMTrainModel Second')
 features = transform_email(emailtext)
 
 #print(features)
