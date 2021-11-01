@@ -10,11 +10,16 @@ from nltk import word_tokenize, pos_tag, pos_tag_sents
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.tokenize import RegexpTokenizer
 import joblib
+import sys
 
 def read_email(path):
   with open(path, 'rb') as f:
     email = f.read().decode('utf8','ignore')
   return email
+
+def load_model(path):
+  model = joblib.load(path)
+  return model
 
 def preprocess(x):
 
@@ -112,11 +117,6 @@ def phraseFeatures(emailtext, features_dict):
   number_of_you = pd.Series([emailtext]).str.count(r'\b(you[r]*)\b', flags=re.I).iat[0]
   features_dict['Authority'] =  number_of_you / features_dict['wordcount']
   
-  #neaten up needed features
-  ###key_to_remove =("PRP", "MD","Adjectives","Adverbs","Nouns","Verbs","wordcount","totalPunctuation","totalSentence","totalCharacters","modifier")
-  ###for k in key_to_remove:
-  ###  if k in features_dict:
-  ###    del features_dict[k]
 
 
   return features_dict
@@ -132,7 +132,6 @@ def sentimentScore(sentence, features_dict):
     features_dict['neg'] = sentiment_dict['neg']
     features_dict['neu'] = sentiment_dict['neu']
     features_dict['pos'] = sentiment_dict['pos']
-    #features_dict['compound'] = sentiment_dict['compound']
     features_dict['scoreTag'] = sentimentTag(sentiment_dict['compound'])
 
     return features_dict 
@@ -186,21 +185,43 @@ def transform_email(emailtext): #obtain all features
 def predict(features_dict, model):
 
   proba = model.predict_proba(features_dict)
-  # [0.3, 0.7]
+  
   predicted_class = model.classes_[(np.argmax(proba))] 
   return {
       "class": predicted_class,
       "proba": np.max(proba)
   }
 
-emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
-model = joblib.load('/content/gdrive/MyDrive/Github/ManipulativePlugin/Models/V6_7_SVMTrainModel Second')
-features = transform_email(emailtext)
+
+def main(email_path, model_path):
+  model = load_model(model_path)
+  email = preprocess(read_email(email_path))
+  features = transform_email(email)
+
+  features_names = ['avg_sentenceLength', 'avg_wordLength', 'pausality',  'Uncertainty', 'nonimmediacy', 'Expressiveness', 'Authority', 'neg', 'neu', 'pos', 'scoreTag', 'caps percentage'] #list
+  features_list = [features[fn] for fn in features_names]
+  pred = predict(np.array([features_list]), model)
+
+  print(pred)
+  return pred
+
+
+if __name__ == "__main__":
+  email_path = sys.argv[2]
+  model_path = sys.argv[1]
+
+  prediction = main(email_path,model_path)
+
+
+
+#emailtext = preprocess (read_email('/content/gdrive/MyDrive/Github/ManipulativePlugin/Sample files /m1.txt'))
+#model = joblib.load('/content/gdrive/MyDrive/Github/ManipulativePlugin/Models/V6_7_SVMTrainModel Second')
+#features = transform_email(emailtext)
 
 #print(features)
-features_names = ['avg_sentenceLength', 'avg_wordLength', 'pausality',  'Uncertainty', 'nonimmediacy', 'Expressiveness', 'Authority', 'neg', 'neu', 'pos', 'scoreTag', 'caps percentage'] #list
-features_list = [features[fn] for fn in features_names]
-predict = predict(np.array([features_list]), model)
+#features_names = ['avg_sentenceLength', 'avg_wordLength', 'pausality',  'Uncertainty', 'nonimmediacy', 'Expressiveness', 'Authority', 'neg', 'neu', 'pos', 'scoreTag', 'caps percentage'] #list
+#features_list = [features[fn] for fn in features_names]
+#predict = predict(np.array([features_list]), model)
 
-print(predict)
+#print(predict)
 
