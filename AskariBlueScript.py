@@ -180,7 +180,7 @@ def transform_email(emailtext): #obtain all features
   #all Caps features
   final_feature_dict = wordswithCaps(emailtext, sentiment_features)
 
-  return sentiment_features
+  return final_feature_dict#sentiment_features
 
 def predict(features_dict, model):
 
